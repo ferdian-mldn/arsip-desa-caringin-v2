@@ -8,11 +8,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        :root {
-            --navy: #0A2540;
-            --steel: #334E68;
-            --offwhite: #F8F9FB;
-            --charcoal: #111827;
+        :root { --accent: #FFD600;
+            --navy: #0F9D58;
+            --steel: #34A853;
+            --offwhite: #F5F7FA;
+            --text-main: #000000;
             --softgray: #E5E7EB;
             --gold: #C9A24D;
             --gold-light: #E6D3A6;
@@ -21,7 +21,7 @@
         body {
             font-family: 'Inter', sans-serif;
             background-color: var(--offwhite);
-            color: var(--charcoal);
+            color: var(--text-main);
             overflow-x: hidden;
         }
 
@@ -105,25 +105,25 @@
 
         .section-padding { padding-top: 5rem; padding-bottom: 5rem; }
         @media (min-width: 1024px) { .section-padding { padding-top: 7rem; padding-bottom: 7rem; } }
-        .hero-gradient { background: linear-gradient(135deg, rgba(10, 37, 64, 0.98) 0%, rgba(51, 78, 104, 0.95) 100%); }
+        .hero-gradient { background: linear-gradient(135deg, rgba(15, 157, 88, 0.98) 0%, rgba(51, 78, 104, 0.95) 100%); }
         .gold-underline { position: relative; display: inline-block; }
         .gold-underline::after { content: ''; position: absolute; left: 0; bottom: -8px; width: 60px; height: 3px; background-color: var(--gold); border-radius: 2px; }
-        .card-shadow { box-shadow: 0 10px 40px rgba(10, 37, 64, 0.08); transition: all 0.3s ease; }
-        .card-shadow:hover { box-shadow: 0 20px 60px rgba(10, 37, 64, 0.15); transform: translateY(-5px); }
+        .card-shadow { box-shadow: 0 10px 40px rgba(15, 157, 88, 0.08); transition: all 0.3s ease; }
+        .card-shadow:hover { box-shadow: 0 20px 60px rgba(15, 157, 88, 0.15); transform: translateY(-5px); }
         .gold-border { border: 1px solid rgba(201, 162, 77, 0.2); }
-        .navy-border { border: 1px solid rgba(10, 37, 64, 0.1); }
-        .feature-icon { width: 64px; height: 64px; display: flex; align-items: center; justify-content: center; border-radius: 16px; margin-bottom: 1.5rem; background: linear-gradient(135deg, rgba(10, 37, 64, 0.05) 0%, rgba(10, 37, 64, 0.1) 100%); color: var(--navy); font-size: 1.5rem; transition: all 0.3s ease; }
+        .navy-border { border: 1px solid rgba(15, 157, 88, 0.1); }
+        .feature-icon { width: 64px; height: 64px; display: flex; align-items: center; justify-content: center; border-radius: 16px; margin-bottom: 1.5rem; background: linear-gradient(135deg, rgba(15, 157, 88, 0.05) 0%, rgba(15, 157, 88, 0.1) 100%); color: var(--navy); font-size: 1.5rem; transition: all 0.3s ease; }
         .gold-badge { background: linear-gradient(135deg, var(--gold) 0%, var(--gold-light) 100%); color: var(--navy); font-weight: 600; padding: 0.5rem 1.25rem; border-radius: 50px; display: inline-flex; align-items: center; gap: 0.5rem; box-shadow: 0 4px 12px rgba(201, 162, 77, 0.2); }
         .nav-link { position: relative; padding-bottom: 4px; }
         .nav-link::after { content: ''; position: absolute; left: 0; bottom: 0; width: 0; height: 2px; background: var(--gold); transition: width 0.3s ease; }
         .nav-link:hover::after { width: 100%; }
         .hero-pattern { background-image: url("data:image/svg+xml,%3Csvg width='100' height='100' viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M11 18c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm48 25c3.866 0 7-3.134 7-7s-3.134-7-7-7-7 3.134-7 7 3.134 7 7 7zm-43-7c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm63 31c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM34 90c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zm56-76c1.657 0 3-1.343 3-3s-1.343-3-3-3-3 1.343-3 3 1.343 3 3 3zM12 86c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm28-65c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm23-11c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-6 60c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm29 22c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zM32 63c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm57-13c2.76 0 5-2.24 5-5s-2.24-5-5-5-5 2.24-5 5 2.24 5 5 5zm-9-21c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM60 91c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM35 41c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2zM12 60c1.105 0 2-.895 2-2s-.895-2-2-2-2 .895-2 2 .895 2 2 2z' fill='%230A2540' fill-opacity='0.03' fill-rule='evenodd'/%3E%3C/svg%3E"); }
         .btn-primary { background: linear-gradient(135deg, var(--navy) 0%, var(--steel) 100%); color: white; padding: 0.875rem 2rem; border-radius: 8px; font-weight: 600; transition: all 0.3s ease; position: relative; overflow: hidden; }
-        .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 10px 25px rgba(10, 37, 64, 0.2); }
+        .btn-primary:hover { transform: translateY(-2px); box-shadow: 0 10px 25px rgba(15, 157, 88, 0.2); }
         .btn-primary::after { content: ''; position: absolute; top: 0; left: -100%; width: 100%; height: 100%; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.2), transparent); transition: left 0.7s; }
         .btn-primary:hover::after { left: 100%; }
         .btn-secondary { background: white; color: var(--navy); padding: 0.875rem 2rem; border-radius: 8px; font-weight: 600; border: 1px solid var(--softgray); transition: all 0.3s ease; }
-        .btn-secondary:hover { transform: translateY(-2px); box-shadow: 0 10px 25px rgba(10, 37, 64, 0.1); border-color: var(--gold); }
+        .btn-secondary:hover { transform: translateY(-2px); box-shadow: 0 10px 25px rgba(15, 157, 88, 0.1); border-color: var(--gold); }
         .btn-gold { background: linear-gradient(135deg, var(--gold) 0%, var(--gold-light) 100%); color: var(--navy); padding: 0.875rem 2rem; border-radius: 8px; font-weight: 600; transition: all 0.3s ease; position: relative; overflow: hidden; }
         .btn-gold:hover { transform: translateY(-2px); box-shadow: 0 10px 25px rgba(201, 162, 77, 0.3); }
         .btn-gold::after { content: ''; position: absolute; top: 0; left: -100%; width: 100%; height: 100%; background: linear-gradient(90deg, transparent, rgba(255,255,255,0.3), transparent); transition: left 0.7s; }
@@ -156,7 +156,9 @@
         .animate-fadeIn { animation: fadeIn 1s ease-out forwards; }
         .animate-float { animation: float 6s ease-in-out infinite; }
         .animate-pulse { animation: pulse 2s infinite; }
-    </style>
+        .bg-accent { background-color: var(--accent); }
+    .text-accent { color: var(--accent); }
+</style>
 </head>
 <body class="font-sans antialiased">
     <div class="progress-container">
@@ -241,7 +243,7 @@
     <section class="pt-32 pb-20 hero-pattern overflow-hidden relative">
         <div class="absolute inset-0 overflow-hidden">
             <div class="absolute -top-40 -right-40 w-80 h-80 rounded-full animate-float" style="background: radial-gradient(circle, rgba(201, 162, 77, 0.1) 0%, rgba(201, 162, 77, 0) 70%);"></div>
-            <div class="absolute -bottom-40 -left-40 w-80 h-80 rounded-full animate-float" style="background: radial-gradient(circle, rgba(10, 37, 64, 0.05) 0%, rgba(10, 37, 64, 0) 70%);"></div>
+            <div class="absolute -bottom-40 -left-40 w-80 h-80 rounded-full animate-float" style="background: radial-gradient(circle, rgba(15, 157, 88, 0.05) 0%, rgba(15, 157, 88, 0) 70%);"></div>
         </div>
         
         <div class="container mx-auto px-6 relative z-10">
@@ -389,10 +391,10 @@
                     </div>
                     <h3 class="text-xl font-bold mb-4" style="color: var(--navy);">Sejarah Desa</h3>
                     <p class="mb-6" style="color: var(--steel);">
-                        Berdiri sejak tahun 1980, Desa Caringin merupakan pemekaran wilayah yang kini berkembang menjadi pusat agrowisata dan pertanian organik.
+                        Desa Caringin lahir pada tahun 1980, hasil pemekaran dari Desa Gegerbitung berdasarkan Surat Keputusan Bupati Sukabumi tahun 1984.
                     </p>
                     <div class="flex items-center text-sm font-medium" style="color: var(--gold);">
-                        <span>Warisan Budaya</span>
+                        <span>Warisan Leluhur</span>
                         <i class="fas fa-arrow-right ml-2 transition-transform duration-300 group-hover:translate-x-1"></i>
                     </div>
                 </div>
@@ -422,7 +424,7 @@
             <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
                 <div class="rounded-2xl overflow-hidden bg-white card-shadow animate-fadeInUp hover-lift" style="animation-delay: 0.1s;">
                     <div class="h-48 relative overflow-hidden shine-container">
-                        <div class="absolute inset-0 flex items-center justify-center" style="background: linear-gradient(135deg, rgba(10, 37, 64, 0.9) 0%, rgba(51, 78, 104, 0.9) 100%);">
+                        <div class="absolute inset-0 flex items-center justify-center" style="background: linear-gradient(135deg, rgba(15, 157, 88, 0.9) 0%, rgba(51, 78, 104, 0.9) 100%);">
                             <i class="fas fa-seedling text-6xl text-white"></i>
                         </div>
                         <div class="absolute bottom-0 left-0 right-0 h-2" style="background: linear-gradient(90deg, var(--gold) 0%, var(--gold-light) 100%);"></div>
@@ -430,20 +432,20 @@
                     <div class="p-8">
                         <h3 class="text-xl font-bold mb-4" style="color: var(--navy);">Pertanian & Perkebunan</h3>
                         <p class="mb-6" style="color: var(--steel);">
-                            Penghasil padi, sayuran organik, dan buah-buahan berkualitas tinggi yang memasok pasar regional.
+                            Ditopang oleh area perkebunan seluas 262,7 Ha dan persawahan seluas 273,3 Ha yang menjadi pusat kegiatan ekonomi warga desa.
                         </p>
                         <div class="flex items-center">
-                            <div class="w-8 h-8 rounded-full flex items-center justify-center mr-3 hover-lift" style="background-color: rgba(10, 37, 64, 0.1);">
+                            <div class="w-8 h-8 rounded-full flex items-center justify-center mr-3 hover-lift" style="background-color: rgba(15, 157, 88, 0.1);">
                                 <i class="fas fa-leaf text-xs" style="color: var(--navy);"></i>
                             </div>
-                            <span class="text-sm font-medium" style="color: var(--navy);">Produk Organik</span>
+                            <span class="text-sm font-medium" style="color: var(--navy);">Lahan Subur</span>
                         </div>
                     </div>
                 </div>
                 
                 <div class="rounded-2xl overflow-hidden bg-white card-shadow animate-fadeInUp hover-lift" style="animation-delay: 0.2s;">
                     <div class="h-48 relative overflow-hidden shine-container">
-                        <div class="absolute inset-0 flex items-center justify-center" style="background: linear-gradient(135deg, rgba(10, 37, 64, 0.9) 0%, rgba(51, 78, 104, 0.9) 100%);">
+                        <div class="absolute inset-0 flex items-center justify-center" style="background: linear-gradient(135deg, rgba(15, 157, 88, 0.9) 0%, rgba(51, 78, 104, 0.9) 100%);">
                             <i class="fas fa-industry text-6xl text-white"></i>
                         </div>
                         <div class="absolute bottom-0 left-0 right-0 h-2" style="background: linear-gradient(90deg, var(--gold) 0%, var(--gold-light) 100%);"></div>
@@ -454,7 +456,7 @@
                             Produk olahan makanan tradisional dan kerajinan tangan anyaman bambu khas warga desa.
                         </p>
                         <div class="flex items-center">
-                            <div class="w-8 h-8 rounded-full flex items-center justify-center mr-3 hover-lift" style="background-color: rgba(10, 37, 64, 0.1);">
+                            <div class="w-8 h-8 rounded-full flex items-center justify-center mr-3 hover-lift" style="background-color: rgba(15, 157, 88, 0.1);">
                                 <i class="fas fa-hands text-xs" style="color: var(--navy);"></i>
                             </div>
                             <span class="text-sm font-medium" style="color: var(--navy);">Kerajinan Tangan</span>
@@ -464,7 +466,7 @@
                 
                 <div class="rounded-2xl overflow-hidden bg-white card-shadow animate-fadeInUp hover-lift" style="animation-delay: 0.3s;">
                     <div class="h-48 relative overflow-hidden shine-container">
-                        <div class="absolute inset-0 flex items-center justify-center" style="background: linear-gradient(135deg, rgba(10, 37, 64, 0.9) 0%, rgba(51, 78, 104, 0.9) 100%);">
+                        <div class="absolute inset-0 flex items-center justify-center" style="background: linear-gradient(135deg, rgba(15, 157, 88, 0.9) 0%, rgba(51, 78, 104, 0.9) 100%);">
                             <i class="fas fa-umbrella-beach text-6xl text-white"></i>
                         </div>
                         <div class="absolute bottom-0 left-0 right-0 h-2" style="background: linear-gradient(90deg, var(--gold) 0%, var(--gold-light) 100%);"></div>
@@ -475,7 +477,7 @@
                             Destinasi wisata curug (air terjun) dan jalur trekking perbukitan yang menawan.
                         </p>
                         <div class="flex items-center">
-                            <div class="w-8 h-8 rounded-full flex items-center justify-center mr-3 hover-lift" style="background-color: rgba(10, 37, 64, 0.1);">
+                            <div class="w-8 h-8 rounded-full flex items-center justify-center mr-3 hover-lift" style="background-color: rgba(15, 157, 88, 0.1);">
                                 <i class="fas fa-tree text-xs" style="color: var(--navy);"></i>
                             </div>
                             <span class="text-sm font-medium" style="color: var(--navy);">Ekowisata</span>
@@ -599,16 +601,16 @@
                         Kecamatan Gegerbitung, Kabupaten Sukabumi, Jawa Barat, Indonesia. Mewujudkan pelayanan publik yang prima untuk masyarakat.
                     </p>
                     <div class="flex space-x-4">
-                        <a href="#" class="w-10 h-10 rounded-full flex items-center justify-center hover-lift" style="background-color: rgba(10, 37, 64, 0.1); color: var(--navy);">
+                        <a href="https://www.facebook.com/majucaringin.gegerbitung?mibextid=rS40aB7S9Ucbxw6v" class="w-10 h-10 rounded-full flex items-center justify-center hover-lift" style="background-color: rgba(15, 157, 88, 0.1); color: var(--navy);">
                             <i class="fab fa-facebook-f"></i>
                         </a>
-                        <a href="#" class="w-10 h-10 rounded-full flex items-center justify-center hover-lift" style="background-color: rgba(10, 37, 64, 0.1); color: var(--navy);">
+                        <a href="#" class="w-10 h-10 rounded-full flex items-center justify-center hover-lift" style="background-color: rgba(15, 157, 88, 0.1); color: var(--navy);">
                             <i class="fab fa-instagram"></i>
                         </a>
-                        <a href="#" class="w-10 h-10 rounded-full flex items-center justify-center hover-lift" style="background-color: rgba(10, 37, 64, 0.1); color: var(--navy);">
+                        <a href="#" class="w-10 h-10 rounded-full flex items-center justify-center hover-lift" style="background-color: rgba(15, 157, 88, 0.1); color: var(--navy);">
                             <i class="fab fa-youtube"></i>
                         </a>
-                        <a href="#" class="w-10 h-10 rounded-full flex items-center justify-center hover-lift" style="background-color: rgba(10, 37, 64, 0.1); color: var(--navy);">
+                        <a href="#" class="w-10 h-10 rounded-full flex items-center justify-center hover-lift" style="background-color: rgba(15, 157, 88, 0.1); color: var(--navy);">
                             <i class="fab fa-whatsapp"></i>
                         </a>
                     </div>
@@ -621,14 +623,14 @@
                             <i class="fas fa-map-marker-alt mt-1 mr-3" style="color: var(--gold);"></i>
                             <div>
                                 <div class="font-medium" style="color: var(--navy);">Alamat</div>
-                                <div class="text-sm" style="color: var(--steel);">Jl. Raya Caringin No. 1, Kec. Gegerbitung</div>
+                                <div class="text-sm" style="color: var(--steel);">Jl. Raya Gegerbitung KM.15, Sukabumi 43197</div>
                             </div>
                         </div>
                         <div class="flex items-start hover-lift p-3 rounded-lg transition-all duration-300 hover:bg-gray-50">
                             <i class="fas fa-phone-alt mt-1 mr-3" style="color: var(--gold);"></i>
                             <div>
-                                <div class="font-medium" style="color: var(--navy);">Telepon</div>
-                                <div class="text-sm" style="color: var(--steel);">(0266) 123-4567</div>
+                                <div class="font-medium" style="color: var(--navy);">Handphone Kades</div>
+                                <div class="text-sm" style="color: var(--steel);">0815-4640-2939</div>
                             </div>
                         </div>
                         <div class="flex items-start hover-lift p-3 rounded-lg transition-all duration-300 hover:bg-gray-50">
@@ -644,7 +646,7 @@
                 <div class="animate-fadeInUp" style="animation-delay: 0.2s;">
                     <h4 class="text-lg font-bold mb-6" style="color: var(--navy);">Jam Layanan</h4>
                     <div class="space-y-4">
-                        <div class="p-4 rounded-lg hover-lift" style="background-color: rgba(10, 37, 64, 0.03);">
+                        <div class="p-4 rounded-lg hover-lift" style="background-color: rgba(15, 157, 88, 0.03);">
                             <div class="font-medium mb-1" style="color: var(--navy);">Hari Kerja</div>
                             <div class="text-sm" style="color: var(--steel);">Senin - Jumat: 08.00 - 15.00 WIB</div>
                         </div>

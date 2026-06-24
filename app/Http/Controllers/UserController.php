@@ -38,6 +38,18 @@ class UserController extends Controller
             'foto_profil'  => 'nullable|image|mimes:jpeg,png,jpg|max:2048', 
         ]);
 
+        // CEK ADMIN MAKSIMAL 1
+        $role = Role::find($request->id_role);
+        if ($role && strtolower($role->nama_peran) == 'admin') {
+            $adminExists = User::whereHas('role', function($q) {
+                $q->where('nama_peran', 'Admin');
+            })->exists();
+            
+            if ($adminExists) {
+                return back()->withErrors(['id_role' => 'Hanya boleh ada 1 Admin di sistem.'])->withInput();
+            }
+        }
+
         $data = $request->except(['password', 'foto_profil']);
         $data['password'] = Hash::make($request->password);
         // Default status aktif jika tidak dicentang (null) dianggap false, kita paksa true/false
@@ -76,6 +88,18 @@ class UserController extends Controller
             'id_unit_kerja'=> 'nullable|exists:unit_kerja,id',
             'foto_profil'  => 'nullable|image|mimes:jpeg,png,jpg|max:2048',
         ]);
+
+        // CEK ADMIN MAKSIMAL 1 (jika user yang diedit BUKAN admin, tapi diubah jadi admin)
+        $role = Role::find($request->id_role);
+        if ($role && strtolower($role->nama_peran) == 'admin') {
+            $adminExists = User::whereHas('role', function($q) {
+                $q->where('nama_peran', 'Admin');
+            })->where('id', '!=', $id)->exists();
+            
+            if ($adminExists) {
+                return back()->withErrors(['id_role' => 'Hanya boleh ada 1 Admin di sistem.'])->withInput();
+            }
+        }
 
         $data = $request->except(['password', 'foto_profil']);
         

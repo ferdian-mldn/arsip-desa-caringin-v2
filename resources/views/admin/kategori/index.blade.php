@@ -3,17 +3,17 @@
 @section('title', 'Manajemen Kategori')
 
 @section('content')
-<div class="min-h-screen bg-off-white py-4 sm:py-6">
+<div class="min-h-screen bg-bg-app py-4 sm:py-6">
     <div class="container mx-auto px-3 sm:px-4">
         <!-- Header Section -->
         <div class="mb-6">
             <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mb-4">
                 <div class="w-full">
-                    <h1 class="text-2xl sm:text-3xl font-bold text-navy-blue mb-1">Manajemen Kategori Dokumen</h1>
-                    <p class="text-sm sm:text-base text-steel-blue/80 font-medium">Kelola kategori dokumen dan masa retensi penyimpanan</p>
+                    <h1 class="text-2xl sm:text-3xl font-bold text-primary mb-1">Manajemen Kategori Dokumen</h1>
+                    <p class="text-sm sm:text-base text-secondary/80 font-medium">Kelola kategori dokumen dan masa retensi penyimpanan</p>
                 </div>
                 
-                <div class="w-full md:w-auto text-sm text-navy-blue font-medium">
+                <div class="w-full md:w-auto text-sm text-primary font-medium">
                     {{ $kategori->count() }} kategori terdaftar
                 </div>
             </div>
@@ -36,8 +36,8 @@
             <!-- Left Column - Add Form -->
             <div class="lg:w-1/3">
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-lg border border-soft-gray overflow-hidden">
-                    <!-- Form Header - Diubah ke solid #0A2540 -->
-                    <div class="px-4 sm:px-6 py-4 sm:py-5 bg-navy-blue">
+                    <!-- Form Header - Diubah ke solid #0F9D58 -->
+                    <div class="px-4 sm:px-6 py-4 sm:py-5 bg-primary">
                         <div class="flex items-center">
                             <h3 class="text-lg sm:text-xl font-semibold text-white">Tambah Kategori Baru</h3>
                         </div>
@@ -68,16 +68,16 @@
                             
                             <!-- Nama Kategori -->
                             <div class="space-y-2">
-                                <label class="block text-sm font-semibold text-navy-blue">
+                                <label class="block text-sm font-semibold text-primary">
                                     Nama Kategori <span class="text-red-500">*</span>
                                 </label>
                                 <div class="relative">
-                                    <svg class="absolute left-4 top-1/2 transform -translate-y-1/2 w-4 h-4 text-steel-blue/60" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <svg class="absolute left-4 top-1/2 transform -translate-y-1/2 w-4 h-4 text-secondary/60" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>
                                     </svg>
                                     <input type="text" 
                                            name="nama_kategori" 
-                                           class="w-full pl-11 pr-4 py-3 text-sm sm:text-base bg-off-white border border-soft-gray rounded-lg sm:rounded-xl focus:outline-none focus:ring-2 focus:ring-navy-blue/20 focus:border-navy-blue transition-all duration-200" 
+                                           class="w-full pl-11 pr-4 py-3 text-sm sm:text-base bg-bg-app border border-soft-gray rounded-lg sm:rounded-xl focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all duration-200" 
                                            placeholder="Contoh: Surat Perjanjian" 
                                            required>
                                 </div>
@@ -85,28 +85,28 @@
 
                             <!-- Masa Retensi -->
                             <div class="space-y-2">
-                                <label class="block text-sm font-semibold text-navy-blue">
+                                <label class="block text-sm font-semibold text-primary">
                                     Masa Retensi <span class="text-red-500">*</span>
                                 </label>
                                 <div class="relative">
-                                    <svg class="absolute left-4 top-1/2 transform -translate-y-1/2 w-4 h-4 text-steel-blue/60" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <svg class="absolute left-4 top-1/2 transform -translate-y-1/2 w-4 h-4 text-secondary/60" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
                                     </svg>
                                     <input type="number" 
                                            name="masa_retensi" 
-                                           class="w-full pl-11 pr-4 py-3 text-sm sm:text-base bg-off-white border border-soft-gray rounded-lg sm:rounded-xl focus:outline-none focus:ring-2 focus:ring-navy-blue/20 focus:border-navy-blue transition-all duration-200" 
+                                           class="w-full pl-11 pr-4 py-3 text-sm sm:text-base bg-bg-app border border-soft-gray rounded-lg sm:rounded-xl focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all duration-200" 
                                            value="5" 
                                            min="1" 
                                            max="100" 
                                            required>
-                                    <span class="absolute right-4 top-1/2 transform -translate-y-1/2 text-sm text-steel-blue/60 font-medium">Tahun</span>
+                                    <span class="absolute right-4 top-1/2 transform -translate-y-1/2 text-sm text-secondary/60 font-medium">Tahun</span>
                                 </div>
-                                <p class="text-xs text-steel-blue/60 mt-1">Berapa tahun dokumen wajib disimpan?</p>
+                                <p class="text-xs text-secondary/60 mt-1">Berapa tahun dokumen wajib disimpan?</p>
                             </div>
 
                             <!-- Submit Button -->
                             <button type="submit" 
-                                    class="w-full inline-flex items-center justify-center px-6 py-3 bg-navy-blue text-white font-semibold rounded-xl shadow-lg hover:bg-steel-blue hover:shadow-xl transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-navy-blue/50">
+                                    class="w-full inline-flex items-center justify-center px-6 py-3 bg-primary text-white font-semibold rounded-xl shadow-lg hover:bg-secondary hover:shadow-xl transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary/50">
                                 <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6"/>
                                 </svg>
@@ -120,8 +120,8 @@
             <!-- Right Column - Categories List -->
             <div class="lg:w-2/3">
                 <div class="bg-white rounded-xl sm:rounded-2xl shadow-lg border border-soft-gray overflow-hidden">
-                    <!-- Table Header - Diubah ke solid #0A2540 -->
-                    <div class="px-4 sm:px-6 py-4 sm:py-5 bg-navy-blue">
+                    <!-- Table Header - Diubah ke solid #0F9D58 -->
+                    <div class="px-4 sm:px-6 py-4 sm:py-5 bg-primary">
                         <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 sm:gap-0">
                             <div class="flex items-center">
                                 <svg class="w-4 h-4 sm:w-5 sm:h-5 text-white mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -140,24 +140,24 @@
                         <div class="overflow-x-auto">
                             <table class="min-w-full">
                                 <thead>
-                                    <tr class="bg-off-white">
-                                        <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-navy-blue uppercase tracking-wider">
+                                    <tr class="bg-bg-app">
+                                        <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-primary uppercase tracking-wider">
                                             Nama Kategori
                                         </th>
-                                        <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-navy-blue uppercase tracking-wider">
+                                        <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-primary uppercase tracking-wider">
                                             Masa Retensi
                                         </th>
-                                        <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-navy-blue uppercase tracking-wider">
+                                        <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-primary uppercase tracking-wider">
                                             Jumlah Dokumen
                                         </th>
-                                        <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-navy-blue uppercase tracking-wider">
+                                        <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-primary uppercase tracking-wider">
                                             Aksi
                                         </th>
                                     </tr>
                                 </thead>
                                 <tbody class="divide-y divide-soft-gray">
                                     @foreach($kategori as $k)
-                                    <tr class="hover:bg-off-white/50 transition-colors duration-150">
+                                    <tr class="hover:bg-bg-app/50 transition-colors duration-150">
                                         <form action="{{ route('admin.kategori.update', $k->id) }}" method="POST" id="form-edit-{{ $k->id }}">
                                             @csrf
                                             @method('PUT')
@@ -166,7 +166,7 @@
                                                     <input type="text" 
                                                            name="nama_kategori" 
                                                            value="{{ $k->nama_kategori }}" 
-                                                           class="w-full px-3 py-2 text-sm bg-transparent border border-transparent rounded-lg focus:outline-none focus:ring-2 focus:ring-navy-blue/20 focus:border-navy-blue hover:border-soft-gray transition-all duration-200 group-hover:bg-off-white/50 group-focus-within:bg-white"
+                                                           class="w-full px-3 py-2 text-sm bg-transparent border border-transparent rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary hover:border-soft-gray transition-all duration-200 group-hover:bg-bg-app/50 group-focus-within:bg-white"
                                                            onchange="document.getElementById('form-edit-{{ $k->id }}').submit()">
                                                 </div>
                                             </td>
@@ -176,21 +176,21 @@
                                                         <input type="number" 
                                                                name="masa_retensi" 
                                                                value="{{ $k->masa_retensi }}" 
-                                                               class="w-20 px-3 py-2 text-sm bg-transparent border border-transparent rounded-lg focus:outline-none focus:ring-2 focus:ring-navy-blue/20 focus:border-navy-blue hover:border-soft-gray transition-all duration-200 group-hover:bg-off-white/50 group-focus-within:bg-white"
+                                                               class="w-20 px-3 py-2 text-sm bg-transparent border border-transparent rounded-lg focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary hover:border-soft-gray transition-all duration-200 group-hover:bg-bg-app/50 group-focus-within:bg-white"
                                                                min="1"
                                                                onchange="document.getElementById('form-edit-{{ $k->id }}').submit()">
                                                     </div>
-                                                    <span class="text-xs text-steel-blue/60 ml-2">Tahun</span>
+                                                    <span class="text-xs text-secondary/60 ml-2">Tahun</span>
                                                 </div>
                                             </td>
                                             <td class="px-4 sm:px-6 py-3 sm:py-4">
                                                 <div class="flex items-center">
-                                                    <div class="w-8 h-8 rounded-lg bg-navy-blue/10 flex items-center justify-center mr-2">
-                                                        <svg class="w-4 h-4 text-navy-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                    <div class="w-8 h-8 rounded-lg bg-primary/10 flex items-center justify-center mr-2">
+                                                        <svg class="w-4 h-4 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                                         </svg>
                                                     </div>
-                                                    <span class="text-sm font-medium text-charcoal">
+                                                    <span class="text-sm font-medium text-text-main">
                                                         {{ $k->dokumen_count }} dokumen
                                                     </span>
                                                 </div>
@@ -199,7 +199,7 @@
                                                 <div class="flex items-center space-x-2">
                                                     <!-- Update Button (Hidden for inline edit) -->
                                                     <button type="submit" 
-                                                            class="hidden items-center px-3 py-1.5 text-xs font-medium rounded-lg bg-navy-blue text-white hover:bg-steel-blue transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-navy-blue/50">
+                                                            class="hidden items-center px-3 py-1.5 text-xs font-medium rounded-lg bg-primary text-white hover:bg-secondary transition-colors duration-200 focus:outline-none focus:ring-2 focus:ring-primary/50">
                                                         <svg class="w-3 h-3 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 13l4 4L19 7"/>
                                                         </svg>
@@ -236,15 +236,15 @@
                     <div class="md:hidden">
                         <div class="divide-y divide-soft-gray">
                             @foreach($kategori as $k)
-                            <div class="p-4 hover:bg-off-white/30 transition-colors duration-150">
+                            <div class="p-4 hover:bg-bg-app/30 transition-colors duration-150">
                                 <form action="{{ route('admin.kategori.update', $k->id) }}" method="POST">
                                     @csrf
                                     @method('PUT')
                                     
                                     <!-- Category Header -->
                                     <div class="flex items-start mb-3">
-                                        <div class="shrink-0 w-10 h-10 rounded-lg bg-navy-blue/10 flex items-center justify-center mr-3">
-                                            <svg class="w-5 h-5 text-navy-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <div class="shrink-0 w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center mr-3">
+                                            <svg class="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>
                                             </svg>
                                         </div>
@@ -252,23 +252,23 @@
                                             <input type="text" 
                                                    name="nama_kategori" 
                                                    value="{{ $k->nama_kategori }}" 
-                                                   class="w-full text-base font-semibold text-navy-blue bg-transparent border-b border-transparent hover:border-soft-gray focus:border-navy-blue focus:outline-none px-1 py-0.5 mb-1"
+                                                   class="w-full text-base font-semibold text-primary bg-transparent border-b border-transparent hover:border-soft-gray focus:border-primary focus:outline-none px-1 py-0.5 mb-1"
                                                    placeholder="Nama Kategori">
                                             
-                                            <div class="flex items-center text-sm text-steel-blue">
+                                            <div class="flex items-center text-sm text-secondary">
                                                 <div class="flex items-center mr-4">
-                                                    <svg class="w-4 h-4 mr-1 text-steel-blue/60" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                    <svg class="w-4 h-4 mr-1 text-secondary/60" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/>
                                                     </svg>
                                                     <input type="number" 
                                                            name="masa_retensi" 
                                                            value="{{ $k->masa_retensi }}" 
-                                                           class="w-12 text-sm bg-transparent border-b border-transparent hover:border-soft-gray focus:border-navy-blue focus:outline-none px-1 py-0.5"
+                                                           class="w-12 text-sm bg-transparent border-b border-transparent hover:border-soft-gray focus:border-primary focus:outline-none px-1 py-0.5"
                                                            min="1">
-                                                    <span class="text-xs text-steel-blue/60 ml-1">Tahun</span>
+                                                    <span class="text-xs text-secondary/60 ml-1">Tahun</span>
                                                 </div>
                                                 <div class="flex items-center">
-                                                    <svg class="w-4 h-4 mr-1 text-steel-blue/60" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                                    <svg class="w-4 h-4 mr-1 text-secondary/60" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                                     </svg>
                                                     <span class="text-sm">{{ $k->dokumen_count }} dokumen</span>
@@ -280,7 +280,7 @@
                                     <!-- Action Buttons -->
                                     <div class="flex items-center justify-between pt-3 border-t border-soft-gray/50">
                                         <button type="submit" 
-                                                class="text-xs font-medium text-navy-blue hover:text-steel-blue transition-colors">
+                                                class="text-xs font-medium text-primary hover:text-secondary transition-colors">
                                             Simpan Perubahan →
                                         </button>
                                         
@@ -308,25 +308,25 @@
 
                     <!-- Table Footer -->
                     @if($kategori->count() > 0)
-                    <div class="px-4 sm:px-6 py-3 sm:py-4 border-t border-soft-gray bg-off-white">
+                    <div class="px-4 sm:px-6 py-3 sm:py-4 border-t border-soft-gray bg-bg-app">
                         <div class="flex flex-col sm:flex-row items-center justify-between gap-2 sm:gap-0">
-                            <div class="text-xs text-steel-blue/60">
+                            <div class="text-xs text-secondary/60">
                                 * Edit langsung pada input field dan perubahan akan otomatis tersimpan
                             </div>
-                            <div class="text-xs text-navy-blue/80 font-medium">
+                            <div class="text-xs text-primary/80 font-medium">
                                 Total: {{ $kategori->count() }} kategori
                             </div>
                         </div>
                     </div>
                     @else
                     <div class="p-8 text-center">
-                        <div class="w-16 h-16 mx-auto mb-4 rounded-full bg-off-white flex items-center justify-center">
-                            <svg class="w-8 h-8 text-charcoal/30" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <div class="w-16 h-16 mx-auto mb-4 rounded-full bg-bg-app flex items-center justify-center">
+                            <svg class="w-8 h-8 text-text-main/30" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M7 7h.01M7 3h5c.512 0 1.024.195 1.414.586l7 7a2 2 0 010 2.828l-7 7a2 2 0 01-2.828 0l-7-7A1.994 1.994 0 013 12V7a4 4 0 014-4z"/>
                             </svg>
                         </div>
-                        <p class="text-base font-medium text-charcoal/60 mb-1">Belum ada kategori</p>
-                        <p class="text-sm text-charcoal/40">Mulai dengan menambahkan kategori pertama Anda</p>
+                        <p class="text-base font-medium text-text-main/60 mb-1">Belum ada kategori</p>
+                        <p class="text-sm text-text-main/40">Mulai dengan menambahkan kategori pertama Anda</p>
                     </div>
                     @endif
                 </div>
@@ -406,34 +406,34 @@
 
 <style>
     /* Custom Colors - Same as reference */
-    :root {
-        --navy-blue: #0A2540;
-        --steel-blue: #334E68;
-        --off-white: #F8F9FB;
+    :root { --accent: #FFD600;
+        --primary: #0F9D58;
+        --secondary: #34A853;
+        --bg-app: #F5F7FA;
         --white: #FFFFFF;
-        --charcoal: #111827;
+        --text-main: #000000;
         --soft-gray: #E5E7EB;
     }
 
-    .bg-navy-blue { 
-        background-color: #0A2540 !important; 
+    .bg-primary { 
+        background-color: #0F9D58 !important; 
     }
-    .text-navy-blue { 
-        color: #0A2540 !important; 
+    .text-primary { 
+        color: #000000 !important; 
     }
-    .bg-steel-blue { background-color: var(--steel-blue); }
-    .text-steel-blue { color: var(--steel-blue); }
-    .bg-off-white { background-color: var(--off-white); }
-    .text-charcoal { color: var(--charcoal); }
+    .bg-secondary { background-color: var(--secondary); }
+    .text-secondary { color: #000000; }
+    .bg-bg-app { background-color: var(--bg-app); }
+    .text-text-main { color: #000000; }
     .border-soft-gray { border-color: var(--soft-gray); }
     
     /* Focus ring */
-    .focus\:ring-navy-blue\/20:focus {
-        --tw-ring-color: rgba(10, 37, 64, 0.2) !important;
+    .focus\:ring-primary\/20:focus {
+        --tw-ring-color: rgba(15, 157, 88, 0.2) !important;
     }
     
-    .focus\:ring-navy-blue\/50:focus {
-        --tw-ring-color: rgba(10, 37, 64, 0.5) !important;
+    .focus\:ring-primary\/50:focus {
+        --tw-ring-color: rgba(15, 157, 88, 0.5) !important;
     }
     
     /* Editable input styling */
@@ -447,12 +447,14 @@
     
     input[type="text"]:focus, input[type="number"]:focus {
         background-color: white !important;
-        box-shadow: 0 1px 3px rgba(10, 37, 64, 0.1);
+        box-shadow: 0 1px 3px rgba(15, 157, 88, 0.1);
     }
     
     /* Navy blue with opacity */
-    .text-navy-blue\/80 {
-        color: rgba(10, 37, 64, 0.8) !important;
+    .text-primary\/80 {
+        color: rgba(15, 157, 88, 0.8) !important;
     }
+    .bg-accent { background-color: var(--accent); }
+    .text-accent { color: var(--accent); }
 </style>
 @endsection

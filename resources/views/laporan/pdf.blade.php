@@ -17,7 +17,9 @@
 
         .footer { margin-top: 30px; text-align: right; font-size: 11px; }
         .signature { margin-top: 50px; text-align: right; margin-right: 30px; }
-    </style>
+        .bg-accent { background-color: var(--accent); }
+    .text-accent { color: var(--accent); }
+</style>
 </head>
 <body>
 

@@ -1,0 +1,4010 @@
+
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="007E0511" w:rsidRPr="0027360B" w:rsidRDefault="007E0511" w:rsidP="0027360B">
+Pr>PROFIL DESA
+ w:rsidR="007E0511" w:rsidRPr="002F711F" w:rsidRDefault="007E0511" w:rsidP="002F711F">
+Pr>2.1  Kondisi Desa
+ w:rsidR="007E0511" w:rsidRPr="002F711F" w:rsidRDefault="007E0511" w:rsidP="002F711F">
+Pr>       2.1.1 Sejarah Desa
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>SEJARAH DESA
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Sejarah 
+roofErr w:type="spellStart"/>Perkembangan
+roofErr w:type="spellEnd"/> Desa
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Nama Desa Sejarah Desa
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Desa 
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>lahir
+roofErr w:type="spellEnd"/> pada 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 1980, 
+roofErr w:type="spellStart"/>hasil
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemekaran
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dari
+roofErr w:type="spellEnd"/> Desa Gegerbitung 
+roofErr w:type="spellStart"/>Kecamatan
+roofErr w:type="spellEnd"/> Gegerbitung 
+roofErr w:type="spellStart"/>Kabupaten
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Sukabumi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>berdasarkan
+roofErr w:type="spellEnd"/> Surat Keputusan 
+roofErr w:type="spellStart"/>Bupati
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Sukabumi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 1984. Lokasi 
+roofErr w:type="spellStart"/>kantor
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Kepala
+roofErr w:type="spellEnd"/> Desa 
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>awalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>terletak
+roofErr w:type="spellEnd"/> di 
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>. 
+roofErr w:type="spellStart"/>Kawungluwuk
+roofErr w:type="spellEnd"/> (Lumbung Padi), dan yang 
+roofErr w:type="spellStart"/>menjadi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Kepala
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Desanya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>adalah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Bpk
+roofErr w:type="spellEnd"/>. M. 
+roofErr w:type="spellStart"/>Basyar
+roofErr w:type="spellEnd"/>. Pada 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 1989 
+roofErr w:type="spellStart"/>berdasarkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>hasil
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>musyawarah
+roofErr w:type="spellEnd"/> para 
+roofErr w:type="spellStart"/>tokoh
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>berdasarkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>letak
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>geografis
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>efektivitas
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pelayanan
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>maka
+roofErr w:type="spellEnd"/> Kantor 
+roofErr w:type="spellStart"/>Kepala
+roofErr w:type="spellEnd"/> Desa 
+roofErr w:type="spellStart"/>dipindahkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ke
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>. 
+roofErr w:type="spellStart"/>Gunung
+roofErr w:type="spellEnd"/> Dewi RT 10 RW.03.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Adapun yang 
+roofErr w:type="spellStart"/>pernah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>menjabat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Kepala
+roofErr w:type="spellEnd"/> Desa 
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>adalah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>berikut
+roofErr w:type="spellEnd"/>:
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Bpk
+roofErr w:type="spellEnd"/>. M. 
+roofErr w:type="spellStart"/>Basyar
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Kepala
+roofErr w:type="spellEnd"/> Desa 
+roofErr w:type="spellStart"/>periode
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>periode
+roofErr w:type="spellEnd"/> 1984-1990
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Bpk
+roofErr w:type="spellEnd"/>. Ardi Suparman 
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/> PLT 
+roofErr w:type="spellStart"/>periode
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 1990-1994 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Bpk
+roofErr w:type="spellEnd"/>. D. 
+roofErr w:type="spellStart"/>Masduki
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Kepala
+roofErr w:type="spellEnd"/> Desa 
+roofErr w:type="spellStart"/>periode
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 1992-1997
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Bpk
+roofErr w:type="spellEnd"/>. 
+roofErr w:type="spellStart"/>Asep
+roofErr w:type="spellEnd"/> Waman 
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/> PLT 
+roofErr w:type="spellStart"/>peroide
+roofErr w:type="spellEnd"/> 1998-2000
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Bpk
+roofErr w:type="spellEnd"/>. Hendra Hermawan 
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Kepala
+roofErr w:type="spellEnd"/> Desa 
+roofErr w:type="spellStart"/>periode
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 2000-2005
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Bpk
+roofErr w:type="spellEnd"/>. Hendra Hermawan 
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/> PLT pada 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 2005-2006
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Bpk
+roofErr w:type="spellEnd"/>. Hendra Hermawan 
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/> PLT pada 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 2006-2007
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Bpk
+roofErr w:type="spellEnd"/>. Hendra Hermawan 
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Kepala
+roofErr w:type="spellEnd"/> Desa 
+roofErr w:type="spellStart"/>periode
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 2007-2013
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Bpk.Eman
+roofErr w:type="spellEnd"/> Hermansyah 
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>PTH.Kepala
+roofErr w:type="spellEnd"/> Desa 
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>periode
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 2013
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Bpk
+roofErr w:type="spellEnd"/>. Nanang 
+roofErr w:type="spellStart"/>Suarna
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Kepala
+roofErr w:type="spellEnd"/> Desa 
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>periode
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 2013-2019.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Bpk.Ajat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Sudrajat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>PJ.Kepala
+roofErr w:type="spellEnd"/> Desa 
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>peroide
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 2019
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>.
+roofErr w:type="spellStart"/>Bpk
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Marpudin
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>Sebagai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Kepala
+roofErr w:type="spellEnd"/>  Desa 
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Periode
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 2019-2025
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>TABEL 1
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>SEJARAH PERKEMBANGAN DESA
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>TAHUN
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KEJADIAN YANG BAIK
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KEJADIAN YANG BURUK
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1980
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Pemekaran Desa 
+roofErr w:type="spellStart"/>dari
+roofErr w:type="spellEnd"/> Desa 
+roofErr w:type="spellStart"/>induk
+roofErr w:type="spellEnd"/> Desa Gegerbitung 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1982
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Kantor Utama Desa 
+roofErr w:type="spellStart"/>Berlokasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dilumbung
+roofErr w:type="spellEnd"/> Desa 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1985
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Pindah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kantor
+roofErr w:type="spellEnd"/> Utama 
+roofErr w:type="spellStart"/>ke
+roofErr w:type="spellEnd"/> Jalan Raya Gegerbitung 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>TABEL 2
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>SEJARAH PIMPINAN  DESA CARINGIN 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>NO
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>NAMA
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>LAMA JABATAN
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>ALAMAT ASAL
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KETERANGAN
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>DARI TAHUN
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>S/D TAHUN
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>M. 
+roofErr w:type="spellStart"/>Basyar
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1984
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1990
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Kp. 
+roofErr w:type="spellStart"/>Kawungluwuk
+roofErr w:type="spellEnd"/> 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Definitif
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Ardi Suparman
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1990
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1994
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Kp. 
+roofErr w:type="spellStart"/>Kawungluwuk
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>PLT
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>D. 
+roofErr w:type="spellStart"/>Masduki
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1992
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1997
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Kp. 
+roofErr w:type="spellStart"/>Kawungluwuk
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Definitif
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>4
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Asep
+roofErr w:type="spellEnd"/> Waman
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1998
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2000
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Kp.Tegal Sereh
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>PLT
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>5
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Hendra Hermawan
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2000
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2005
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Kp. 
+roofErr w:type="spellStart"/>Kawungluwuk
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>PJS
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>6
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Hendra Hermawan
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2005
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2006
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Kp. 
+roofErr w:type="spellStart"/>Kawungluwuk
+roofErr w:type="spellEnd"/> 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>PLT
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>7
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Hendra Hermawan
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2006
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2007
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Kp. 
+roofErr w:type="spellStart"/>Kawungluwuk
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>PLT
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>8
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Hendra Hermawan
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2007
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2013
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Kp. 
+roofErr w:type="spellStart"/>Kawungluwuk
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Definitif
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>9
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Eman Hermansyah
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>...........
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2013
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Kp. C
+roofErr w:type="spellStart"/>aringin
+roofErr w:type="spellEnd"/> 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>PLH
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>10
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Nanang 
+roofErr w:type="spellStart"/>Suarna
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2013
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2019
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Kp. Lio 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Definitif
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>11
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Ajat 
+roofErr w:type="spellStart"/>Sudrajat
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>.............
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2019
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Kp. 
+roofErr w:type="spellStart"/>Cieungang
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>PJS
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>12
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Marpudin
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2019
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2025
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Kp. 
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/> 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Definitif
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="003763F6" w:rsidRPr="002F711F" w:rsidRDefault="003763F6" w:rsidP="002F711F">
+Pr>
+ w:rsidR="007E0511" w:rsidRDefault="007E0511" w:rsidP="002F711F">
+Pr>
+ w:rsidR="002F711F" w:rsidRDefault="002F711F" w:rsidP="002F711F">
+Pr>
+ w:rsidR="0027360B" w:rsidRDefault="0027360B" w:rsidP="002F711F">
+Pr>
+ w:rsidR="0027360B" w:rsidRDefault="0027360B" w:rsidP="002F711F">
+Pr>
+ w:rsidR="0027360B" w:rsidRDefault="0027360B" w:rsidP="002F711F">
+Pr>
+ w:rsidR="0027360B" w:rsidRDefault="0027360B" w:rsidP="002F711F">
+Pr>
+ w:rsidR="0027360B" w:rsidRDefault="0027360B" w:rsidP="002F711F">
+Pr>
+ w:rsidR="002F711F" w:rsidRDefault="002F711F" w:rsidP="008421C0">
+Pr>
+ w:rsidR="002F711F" w:rsidRPr="002F711F" w:rsidRDefault="002F711F" w:rsidP="002F711F">
+Pr>
+ w:rsidR="000C7082" w:rsidRPr="002F711F" w:rsidRDefault="000C7082" w:rsidP="002F711F">
+Pr>
+ w:rsidR="0027360B" w:rsidRDefault="0027360B" w:rsidP="002F711F">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>STRUKTUR ORGANISASAI  PEMERINTAHAN DESA
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>DESA CARINGIN KECAMATAN CARINGIN
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KABUPATEN SUKABUMI
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="00E251C4" w:rsidP="0027360B">
+Pr>
+ict>
+ w:rsidR="0027360B" w:rsidRPr="00E251C4" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>BADAN MUSYAWARAH DESA
+ w:rsidR="0027360B" w:rsidRPr="00E251C4" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>( BPD )
+ w:rsidR="0027360B" w:rsidRPr="00E251C4" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ict>
+ w:rsidR="0027360B" w:rsidRPr="00DC6A3A" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KEPALA DESA
+ w:rsidR="0027360B" w:rsidRPr="00DC6A3A" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>MARPUDIN 
+ict>
+ w:rsidR="0027360B" w:rsidRPr="007B6F5C" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>LPMD
+ w:rsidR="0027360B" w:rsidRPr="0058454D" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0058454D" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="00000000" w:rsidP="0027360B">
+Pr>
+ict>
+ict>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="00AF5B83" w:rsidP="0027360B">
+Pr>
+ict>
+ w:rsidR="0027360B" w:rsidRPr="00DC6A3A" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>SEKRETARIS DESA
+ w:rsidR="0027360B" w:rsidRPr="0030182D" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>EMAN HERMANSYAH,SE 
+ict>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="00E251C4" w:rsidP="0027360B">
+Pr>
+ict>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="000D2FA6" w:rsidP="0027360B">
+Pr>
+ict>
+ict>
+ict>
+ict>
+ w:rsidR="00E251C4" w:rsidRDefault="00E251C4" w:rsidP="0027360B">
+Pr>
+ict>
+ w:rsidR="00E251C4" w:rsidRDefault="00E251C4" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="000D2FA6" w:rsidP="0027360B">
+Pr>
+ict>
+ict>
+ict>
+ict>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="00E251C4" w:rsidP="0027360B">
+Pr>
+ict>
+ w:rsidR="0027360B" w:rsidRPr="00AF5B83" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KASI KESRA
+ w:rsidR="0027360B" w:rsidRPr="00AF5B83" w:rsidRDefault="00FD0CCC" w:rsidP="0027360B">
+Pr>NURAIDIN MULKA,.
+roofErr w:type="spellStart"/>S.Pd
+roofErr w:type="spellEnd"/> 
+ict>
+ w:rsidR="0027360B" w:rsidRPr="00AF5B83" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KASI PELAYANAN UMUM
+ w:rsidR="0027360B" w:rsidRPr="00AF5B83" w:rsidRDefault="00FD0CCC" w:rsidP="0027360B">
+Pr>RIZKI 
+roofErr w:type="spellStart"/>SOEMANTRI,S.Kom
+roofErr w:type="spellEnd"/>
+ict>
+ w:rsidR="0027360B" w:rsidRPr="00E251C4" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KASI PEMERINTAHAN 
+ w:rsidR="0027360B" w:rsidRPr="00AF5B83" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>ENDRI SUKMA MAULANA
+ict>
+ w:rsidR="0027360B" w:rsidRPr="00AF5B83" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KAUR KEUANGAN
+ w:rsidR="0027360B" w:rsidRPr="00AF5B83" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>IMAS MASLIAH,SE
+ict>
+ w:rsidR="0027360B" w:rsidRPr="00AF5B83" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KAUR PERENCANAAN
+ w:rsidR="0027360B" w:rsidRPr="00AF5B83" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>IWAN RIDWANULOH
+ict>
+ w:rsidR="0027360B" w:rsidRPr="00AF5B83" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KAUR ADMINISTRASI &amp; TU
+ w:rsidR="0027360B" w:rsidRPr="00AF5B83" w:rsidRDefault="00FD0CCC" w:rsidP="0027360B">
+Pr>A.MUHAMAD ANDIKA S 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00E251C4">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="00000000" w:rsidP="0027360B">
+Pr>
+gSz w:w="16839" w:h="11907" w:orient="landscape" w:code="9"/>
+gMar w:top="1440" w:right="1440" w:bottom="1440" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>
+ict>
+ w:rsidR="0027360B" w:rsidRPr="00DC6A3A" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KADUS LIO
+ w:rsidR="0027360B" w:rsidRPr="00FD0CCC" w:rsidRDefault="00F63D26" w:rsidP="0027360B">
+Pr>HENDRIK GUNAWAN
+ict>
+ w:rsidR="0027360B" w:rsidRPr="00DC6A3A" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KADUS KAWUNGLUWUK
+ w:rsidR="0027360B" w:rsidRPr="00FD0CCC" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>UJANG SAEPULOH
+ict>
+ict>
+ict>
+ict>
+ w:rsidR="0027360B" w:rsidRPr="00DC6A3A" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KADUS BENJOT
+ w:rsidR="0027360B" w:rsidRPr="00FD0CCC" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>REVI ASPALMI 
+ict>
+ w:rsidR="0027360B" w:rsidRPr="00DC6A3A" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KADUS CARINGIN
+ w:rsidR="0027360B" w:rsidRPr="00FD0CCC" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>WANDI 
+roofErr w:type="spellStart"/>KUSMANTO,S.kom
+roofErr w:type="spellEnd"/>
+ict>
+ict>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.1.2.  DEMOGRAFI 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>KEADAAN GEOGRAFIS
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Luas Wilayah Desa :   588 Ha
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Perkebunan/ 
+roofErr w:type="spellStart"/>Pertanian
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dll
+roofErr w:type="spellEnd"/>:   262,7  Ha
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Sawah:   273,3  Ha
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Perkampungan
+roofErr w:type="spellEnd"/>:     52  Ha
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Wilayah 
+roofErr w:type="spellStart"/>Administrasi
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Jumlah
+roofErr w:type="spellEnd"/> Wilayah Dusun:      4Wilayah
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Jumlah
+roofErr w:type="spellEnd"/> Wilayah RW:      10Wilayah
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Jumlah
+roofErr w:type="spellEnd"/> Wilayah RT:     40 Wilayah
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Desa 
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>merupakan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dataran
+roofErr w:type="spellEnd"/> sedang-sampai berbukit 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Ketinggian
+roofErr w:type="spellEnd"/> :     600 – 700 m 
+roofErr w:type="spellStart"/>dpl
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Iklim 
+roofErr w:type="spellStart"/>Terendah
+roofErr w:type="spellEnd"/>: 17 C0
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Iklim 
+roofErr w:type="spellStart"/>Tertinggi
+roofErr w:type="spellEnd"/> : 31 C0
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Curah 
+roofErr w:type="spellStart"/>Hujan
+roofErr w:type="spellEnd"/>:2300-3000 mm/Tahun
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Desa 
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Berbatasan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/> :
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Sebelah
+roofErr w:type="spellEnd"/> Utara: Desa 
+roofErr w:type="spellStart"/>bencoy
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Sebelah
+roofErr w:type="spellEnd"/> Timur : 
+roofErr w:type="spellStart"/>Kabupaten
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Cianjur
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Sebelah
+roofErr w:type="spellEnd"/> Selatan: Desa Gegerbitung
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Sebelah
+roofErr w:type="spellEnd"/> Barat:Desa 
+roofErr w:type="spellStart"/>Buniwangi
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Jarak Waktu 
+roofErr w:type="spellStart"/>tempuh
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ke
+roofErr w:type="spellEnd"/> Pusat Kota :
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Ibu Kota ( Jakarta ): 130 Km (4.Jam)
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Propinsi
+roofErr w:type="spellEnd"/> (Bandung): 125 Km (3.Jam)
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Kabupaten
+roofErr w:type="spellEnd"/> ( 
+roofErr w:type="spellStart"/>Sukabumi
+roofErr w:type="spellEnd"/>): 80 Km (2,5 Jam)
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Kecamatan
+roofErr w:type="spellEnd"/> ( Gegerbitung) :   1 Km (15 Menit)
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Keadaan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Penduduk
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Jumlah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Kepala
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Keluarga
+roofErr w:type="spellEnd"/>: 2565  KK
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Jumlah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Penduduk
+roofErr w:type="spellEnd"/> RTM:  540     KK
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Jumlah
+roofErr w:type="spellEnd"/> Jiwa:7.477 Jiwa
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Laki-
+roofErr w:type="spellStart"/>laki
+roofErr w:type="spellEnd"/>:3,719 Jiwa
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Perempuan: 3.698  Jiwa
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Angkatan 
+roofErr w:type="spellStart"/>Kerja
+roofErr w:type="spellEnd"/> (15-60 Th): 2.170 Jiwa
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Jumlah
+roofErr w:type="spellEnd"/> Fakir Miskin:         110 KK
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Pemeluk
+roofErr w:type="spellEnd"/> Agama Islam: 7.477 Orang. 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Mata 
+roofErr w:type="spellStart"/>Pencaharian
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Penduduk
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Petani
+roofErr w:type="spellEnd"/> :638   Orang
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Buruh
+roofErr w:type="spellEnd"/> Tani :          2.652   Orang
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Pedagang:     392   Orang
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Buruh
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Swasta
+roofErr w:type="spellEnd"/> :     142   Orang
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Pegawai
+roofErr w:type="spellEnd"/> Negeri:              35  Orang
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>TNI:                    1 Orang
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Pengrajin
+roofErr w:type="spellEnd"/> :   25   
+roofErr w:type="spellStart"/>Kelompok
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Buruh
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Pengrajin
+roofErr w:type="spellEnd"/> :   55   Orang
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Lainnya
+roofErr w:type="spellEnd"/> :           Orang
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr> Sarana Pendidikan
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>PAUD :      4  
+roofErr w:type="spellStart"/>Kelompok
+roofErr w:type="spellEnd"/> 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>S D :      4  SD
+ w:rsidR="0027360B" w:rsidRPr="00F63D26" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>MD:     10  MD
+ w:rsidR="00F63D26" w:rsidRPr="0027360B" w:rsidRDefault="00F63D26" w:rsidP="00385FCF">
+Pr>MI;  1 MI
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>SLTP :    2  ( 1 Negeri ) (1 SWASTA)
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>SLTA:
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Sarana  Kesehatan 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Puskesmas:      0  Unit
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Posyandu:   9  POS
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Sarana  Agama
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr> Masjid Jamie :    16  Masjid
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr> 
+roofErr w:type="spellStart"/>Mushola
+roofErr w:type="spellEnd"/>:    40  
+roofErr w:type="spellStart"/>Mushola
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Sarana  Jalan 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Jalan 
+roofErr w:type="spellStart"/>Provinsi
+roofErr w:type="spellEnd"/> :       0   Km
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Jalan  
+roofErr w:type="spellStart"/>Kabupaten
+roofErr w:type="spellEnd"/> :       5    Km
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Jalan Desa  Batu :       0    Km
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Jalan Desa  
+roofErr w:type="spellStart"/>Aspal
+roofErr w:type="spellEnd"/> :       8    Km
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Jalan Desa Belum 
+roofErr w:type="spellStart"/>Diperkeras
+roofErr w:type="spellEnd"/>:       1    Km
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Jalan 
+roofErr w:type="spellStart"/>Lingkungan
+roofErr w:type="spellEnd"/>/kampung:      6  Km
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Sarana Umum
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Lapang
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Sepak
+roofErr w:type="spellEnd"/> Bola :      1    
+roofErr w:type="spellStart"/>Buah
+roofErr w:type="spellEnd"/> 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Lapang
+roofErr w:type="spellEnd"/> Volley :      2    
+roofErr w:type="spellStart"/>Buah
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Lapang
+roofErr w:type="spellEnd"/> Bulu 
+roofErr w:type="spellStart"/>Tangkis
+roofErr w:type="spellEnd"/> :      1    
+roofErr w:type="spellStart"/>Buah
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Pos  
+roofErr w:type="spellStart"/>Kamling
+roofErr w:type="spellEnd"/> :    40    
+roofErr w:type="spellStart"/>Buah
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Bidang
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Pemerintahan
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Sarana Pemerintahan
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. Gedung Aula Desa :     1     Unit 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. Kantor 
+roofErr w:type="spellStart"/>Kepala
+roofErr w:type="spellEnd"/> Desa :     1     Unit  
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. 
+roofErr w:type="spellStart"/>Inventarisasi
+roofErr w:type="spellEnd"/> Desa
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>  *.  Computer                 :     8    Unit
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>  *.  
+roofErr w:type="spellStart"/>Leptop
+roofErr w:type="spellEnd"/>   :     2    Unit
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>*.   
+roofErr w:type="spellStart"/>Mesin
+roofErr w:type="spellEnd"/> Tik :      1   Unit 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>*.   Meja 
+roofErr w:type="spellStart"/>Kerja
+roofErr w:type="spellEnd"/>:      14   
+roofErr w:type="spellStart"/>Buah
+roofErr w:type="spellEnd"/> 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>*.  
+roofErr w:type="spellStart"/>Kursi
+roofErr w:type="spellEnd"/>  Tamu :      2   Unit
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>*.  
+roofErr w:type="spellStart"/>Kursi
+roofErr w:type="spellEnd"/> :    110  
+roofErr w:type="spellStart"/>Buah
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>*.  Filing 
+roofErr w:type="spellStart"/>Kabinet
+roofErr w:type="spellEnd"/> :       0  
+roofErr w:type="spellStart"/>Buah
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>*.  
+roofErr w:type="spellStart"/>Televisi
+roofErr w:type="spellEnd"/>:       1  
+roofErr w:type="spellStart"/>Buah
+roofErr w:type="spellEnd"/> 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>*.  Motor Dinas :       3  Unit 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Data 
+roofErr w:type="spellStart"/>Administrasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Perangkat
+roofErr w:type="spellEnd"/> Desa
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. Nama  Desa :  DESA CARINGIN
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-.  A l a m a t:  Jl. Raya Gegerbitung KM.15
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr> - Sukabum
+roofErr w:type="spellStart"/>i
+roofErr w:type="spellEnd"/> 43197
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. 
+roofErr w:type="spellStart"/>Telephon
+roofErr w:type="spellEnd"/> Kantor :   - 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. Nama 
+roofErr w:type="spellStart"/>Kepala
+roofErr w:type="spellEnd"/> Desa :  MARPUDIN
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. Masa 
+roofErr w:type="spellStart"/>jabatan
+roofErr w:type="spellEnd"/>/
+roofErr w:type="spellStart"/>TMTPelantikan
+roofErr w:type="spellEnd"/>:  6
+roofErr w:type="spellStart"/>Tahun
+roofErr w:type="spellEnd"/>/ 13 
+roofErr w:type="spellStart"/>Desember
+roofErr w:type="spellEnd"/> 2020
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. Pendidikan 
+roofErr w:type="spellStart"/>Terakhir
+roofErr w:type="spellEnd"/> :  SLTA
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. Nama 
+roofErr w:type="spellStart"/>Sekretaris
+roofErr w:type="spellEnd"/> Desa :  EMAN HERMANSYAH,SE
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. Pendidikan 
+roofErr w:type="spellStart"/>Terakhir
+roofErr w:type="spellEnd"/> :  S1
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. Status/ 
+roofErr w:type="spellStart"/>Golongan
+roofErr w:type="spellEnd"/> :   -
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. Hand Phone :  081546402939
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. 
+roofErr w:type="spellStart"/>Jumlah
+roofErr w:type="spellEnd"/>  Kasi :   3  Orang
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. 
+roofErr w:type="spellStart"/>Jumlah
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>Staf
+roofErr w:type="spellEnd"/>:   3  Orang
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. 
+roofErr w:type="spellStart"/>Jumlah
+roofErr w:type="spellEnd"/>  KADUS:   4  Orang 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. 
+roofErr w:type="spellStart"/>Jumlah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Anggota
+roofErr w:type="spellEnd"/>  BPD :  9  Orang
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>C.  
+roofErr w:type="spellStart"/>Pembagian
+roofErr w:type="spellEnd"/> Wilayah 
+roofErr w:type="spellStart"/>Pemerintah
+roofErr w:type="spellEnd"/> Desa
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Dusun  Lio  
+roofErr w:type="spellStart"/>terdiri
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dari
+roofErr w:type="spellEnd"/>   2 RW
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>RW 01 terdiri dari 5 RT:
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT  01/01: 
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>. Babakan
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT  02/01: 
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>. 
+roofErr w:type="spellStart"/>Tanjungsari
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT. 03/01: 
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>. 
+roofErr w:type="spellStart"/>Tanjungsari
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT. 04/01 : 
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>. Lio
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT. 05/01: 
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>. Lio
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>RW 02 terdiri dari 5 RT :
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT. 05/02: Kp. Lio
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT. 06/02: Kp. Lio
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT. 07a/02: KP. 
+roofErr w:type="spellStart"/>Nangoh
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT. 07b/02: Kp. 
+roofErr w:type="spellStart"/>Puncaksayang
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Dusun 
+roofErr w:type="spellStart"/>Benjot
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Terdiri
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dari
+roofErr w:type="spellEnd"/>   2  R W
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>RW 03 Terdiri dari 4 RT:
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT.  08a/03:  
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>. 
+roofErr w:type="spellStart"/>Tegalsereh
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT.  08b/03:  
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>. 
+roofErr w:type="spellStart"/>Tegalsereh
+roofErr w:type="spellEnd"/> 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT. 09a/03:  
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>. 
+roofErr w:type="spellStart"/>Tegalsereh
+roofErr w:type="spellEnd"/> 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT.  09b/03:  
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>. 
+roofErr w:type="spellStart"/>Tegalsereh
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>RW 08 terdiri dari 3 RT:
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 28a/08:  Kp. 
+roofErr w:type="spellStart"/>Cigobag
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 28b/08:  Kp. 
+roofErr w:type="spellStart"/>Cigobag
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 29/08:  Kp. 
+roofErr w:type="spellStart"/>Cigeblug
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>RW 09 terdiri dari 3 RT:
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 30/09:  Kp. 
+roofErr w:type="spellStart"/>Benjot
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 31/09:  Kp. 
+roofErr w:type="spellStart"/>Benjot
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 32/09:  Kp. 
+roofErr w:type="spellStart"/>Benjot
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Dusun 
+roofErr w:type="spellStart"/>Kawungluwuk
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>Terdiri
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dari
+roofErr w:type="spellEnd"/>  3  RW
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>RW 04a terdiri dari 4 RT:
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-.  RT. 11a/04a: 
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>.  
+roofErr w:type="spellStart"/>Kawungluwuk
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-.  RT. 11b/04a:  
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>.  
+roofErr w:type="spellStart"/>Kawungluwuk
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-.  RT. 12/04a :  
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>.  
+roofErr w:type="spellStart"/>Kawungluwuk
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-.  RT. 13/04a:  
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>.  
+roofErr w:type="spellStart"/>Kawungluwuk
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 14/04b:  Kp. 
+roofErr w:type="spellStart"/>Babakangarut
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr> RW 04b Terdiri dari 2 RT:
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 10a/04b:  Kp. 
+roofErr w:type="spellStart"/>Gunungdewi
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 10b/04b:  Kp. 
+roofErr w:type="spellStart"/>Gunungdewi
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr> RW 05 Terdiri dari 2 RT:
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 15a/05:  Kp. 
+roofErr w:type="spellStart"/>Cimonteng
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 15b/05:  Kp. 
+roofErr w:type="spellStart"/>Cimonteng
+roofErr w:type="spellEnd"/> 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 16/05  :  Kp. 
+roofErr w:type="spellStart"/>Pangkalan
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 17/05              :  Kp. 
+roofErr w:type="spellStart"/>Cimalati
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 18/05                :  Kp. 
+roofErr w:type="spellStart"/>Nyalindung
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Dusun 
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>terdiri
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dari
+roofErr w:type="spellEnd"/>  2  RW
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>RW06 terdiri dari 5 RT:
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT.19/06: 
+roofErr w:type="spellStart"/>Kp.Cibule
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT. 20/06:  
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>.  
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT. 21/06:  
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>.  
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT. 22/06:  
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>.  
+roofErr w:type="spellStart"/>Sangkalih
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT. 23/06:  
+roofErr w:type="spellStart"/>Kp
+roofErr w:type="spellEnd"/>.  
+roofErr w:type="spellStart"/>Sangkalih
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>RW 07 terdiri dari 5 RT:
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 24/07:  Kp. 
+roofErr w:type="spellStart"/>Ciseupan
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 25a/07:  Kp. 
+roofErr w:type="spellStart"/>Cipariuk
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 25b/07:  Kp. 
+roofErr w:type="spellStart"/>Tanjungsirna
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 26/07:  Kp. 
+roofErr w:type="spellStart"/>Cikadu
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>-. RT 27/07:  Kp. 
+roofErr w:type="spellStart"/>Cikadu
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.1.3. 
+roofErr w:type="spellStart"/>Keadaan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Sosial
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>a. 
+roofErr w:type="spellStart"/>Masalah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Sosial
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1. Masih     
+roofErr w:type="spellStart"/>tingginya
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>jumlah
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>penyandang
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>masalah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kesejahteraan
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>sosial
+roofErr w:type="spellEnd"/>    (PMKS),   
+roofErr w:type="spellStart"/>terutama
+roofErr w:type="spellEnd"/>   fakir    miskin, 
+roofErr w:type="spellStart"/>keluarga
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>berumah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tidak
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>layak
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>huni
+roofErr w:type="spellEnd"/>,  
+roofErr w:type="spellStart"/>penyandang
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>cacat
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>wanita
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>rawan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sosial
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ekonomi
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.   Masih 
+roofErr w:type="spellStart"/>tingginya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>jumlah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>penduduk
+roofErr w:type="spellEnd"/> miskin.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3.  Masih  
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tingkat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kesadaran
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>partisipasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sosial
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>penanganan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masalah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sosial
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>4.Masih  
+roofErr w:type="spellStart"/>rawannya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>remaja
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>menjadi
+roofErr w:type="spellEnd"/> korban trafficking.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Ketenagakerjaan
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1. 
+roofErr w:type="spellStart"/>Rendahnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kualitas
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>produktivitas
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tenaga
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kerja
+roofErr w:type="spellEnd"/>. Hal 
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>terlihat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dari
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>tingkat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ketrampilan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tenaga
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kerja
+roofErr w:type="spellEnd"/>  yang  minim dan  
+roofErr w:type="spellStart"/>pendidikan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tenaga
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kerja
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>masih
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>rendah
+roofErr w:type="spellEnd"/>, rata-rata SMA 
+roofErr w:type="spellStart"/>ke
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>bawah
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2. 
+roofErr w:type="spellStart"/>Rendahnya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>peluang
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kesempatan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kerja
+roofErr w:type="spellEnd"/>.  Hal  
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>ditandai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tidak
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>sebandingnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>jumlah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>angkatan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kerja
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>jumlah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>lapangan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kerja
+roofErr w:type="spellEnd"/> yang 
+roofErr w:type="spellStart"/>tersedia
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3. 
+roofErr w:type="spellStart"/>Kurangnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>informasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>peluang
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kesempatan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kerja
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>bagi
+roofErr w:type="spellEnd"/>  para 
+roofErr w:type="spellStart"/>pencari
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kerja
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>c.
+roofErr w:type="spellStart"/>Koperasi
+roofErr w:type="spellEnd"/>, Usaha 
+roofErr w:type="spellStart"/>Mikro
+roofErr w:type="spellEnd"/> Kecil dan 
+roofErr w:type="spellStart"/>Menengah
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1.  Masih   
+roofErr w:type="spellStart"/>adanya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>usaha
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>mikro
+roofErr w:type="spellEnd"/>,   
+roofErr w:type="spellStart"/>kecil
+roofErr w:type="spellEnd"/>  dan   
+roofErr w:type="spellStart"/>menengah
+roofErr w:type="spellEnd"/>  yang 
+roofErr w:type="spellStart"/>berbadan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>hukum
+roofErr w:type="spellEnd"/>,  
+roofErr w:type="spellStart"/>sehingga
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>menghambat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pengembangan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>usaha
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.Belum  
+roofErr w:type="spellStart"/>tumbuhnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>penciptaan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>wirausaha
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>baru
+roofErr w:type="spellEnd"/>  dan  
+roofErr w:type="spellStart"/>daya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>saing
+roofErr w:type="spellEnd"/> UMKM.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3. Masih  
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>akses
+roofErr w:type="spellEnd"/> UMKM 
+roofErr w:type="spellStart"/>terhadap
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sumber
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>daya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>produktif
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>terutama
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>permodalan
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>bahan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>baku
+roofErr w:type="spellEnd"/>,   
+roofErr w:type="spellStart"/>teknologi
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>sarana
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemasaran
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>informasi
+roofErr w:type="spellEnd"/> pasar.
+ w:rsidR="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>4.  Masih    
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>kapasitas
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>pengelola
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>koperasi
+roofErr w:type="spellEnd"/>   dan UMKM. Hal 
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ditandai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sebagian
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>besar
+roofErr w:type="spellEnd"/>  SDM 
+roofErr w:type="spellStart"/>koperasi
+roofErr w:type="spellEnd"/> dan UMKM 
+roofErr w:type="spellStart"/>berpendidikan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>rendah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>keahlian
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>teknis
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>kompetensi
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>manajemen
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>seadanya
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>d.
+roofErr w:type="spellStart"/>Penanaman
+roofErr w:type="spellEnd"/>  Modal
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1. Belum  
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>promosi
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>kerjasama
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>antar
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>instansi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>rangka
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>menarik
+roofErr w:type="spellEnd"/> investor.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.Belum 
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sarana
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>prasarana
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>investasi
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>diantaranya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>jaringan
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>jalan
+roofErr w:type="spellEnd"/>,    
+roofErr w:type="spellStart"/>jembatan
+roofErr w:type="spellEnd"/>,   
+roofErr w:type="spellStart"/>listrik
+roofErr w:type="spellEnd"/>,    
+roofErr w:type="spellStart"/>telekomunikasi
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>perbankan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dll
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>e.
+roofErr w:type="spellStart"/>Kebudayaan
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1. Masih   
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kesadaran
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>pelestarian
+roofErr w:type="spellEnd"/> dan   
+roofErr w:type="spellStart"/>aktualisasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>adat-istiadat
+roofErr w:type="spellEnd"/>  dan   
+roofErr w:type="spellStart"/>nilai-nilai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>budaya
+roofErr w:type="spellEnd"/>.  Hal  
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>disebabkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>semakin
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>meningkatnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pengaruh
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>budaya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>luar
+roofErr w:type="spellEnd"/> negeri.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.Belum  
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>upaya-upaya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>pelestarian
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>peninggalan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sejarah
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/>  asset 
+roofErr w:type="spellStart"/>budaya
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3.Masih  
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>inovasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pengembangan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>seni
+roofErr w:type="spellEnd"/>  dan 
+roofErr w:type="spellStart"/>budaya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>untuk
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>mengangkat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>citra
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>budaya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>daerah
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>f.
+roofErr w:type="spellStart"/>Kepemudaan
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>Olahraga
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1. 
+roofErr w:type="spellStart"/>Meningkatnya
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>kerentanan
+roofErr w:type="spellEnd"/>   pemuda   
+roofErr w:type="spellStart"/>terhadap
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>budaya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>narkoba
+roofErr w:type="spellEnd"/>   dan    
+roofErr w:type="spellStart"/>pergaulan
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>bebas
+roofErr w:type="spellEnd"/>.    Hal    
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>disebabkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pengaruh
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>budaya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>luar
+roofErr w:type="spellEnd"/>   dan    
+roofErr w:type="spellStart"/>teknologi
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>informasi
+roofErr w:type="spellEnd"/>  yang sangat 
+roofErr w:type="spellStart"/>pesat
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.Belum  
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>peran
+roofErr w:type="spellEnd"/>  pemuda  
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pembangunan
+roofErr w:type="spellEnd"/>. Hal    
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>disebabkan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kapasitas
+roofErr w:type="spellEnd"/>   pemuda   
+roofErr w:type="spellStart"/>belum
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>sesuai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>harapan
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>sehingga
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>keterlibatan
+roofErr w:type="spellEnd"/> pemuda 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahapan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>perencanaan
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>pelaksanaan
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>evaluasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pembangunan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masih
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>rendah
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>serta
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>akses
+roofErr w:type="spellEnd"/> pemuda 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahapan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pembangunan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>tersebut
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>belum
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>sepenuhnya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>diwujudkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>atau
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>belum
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>sepenuhnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dilibatkan
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3.Belum        
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/>       
+roofErr w:type="spellStart"/>menumbuh
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kembangkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kewirausahaan
+roofErr w:type="spellEnd"/> di 
+roofErr w:type="spellStart"/>kalangan
+roofErr w:type="spellEnd"/> pemuda . Hal  
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dikarenakan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kapasitas
+roofErr w:type="spellEnd"/>  dan   
+roofErr w:type="spellStart"/>jiwa
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>kewirausahaan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>dikalangan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>generasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>muda
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masih
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>rendah
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>kegiatan-kegiatan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ekonomi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>produktif
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>dilakukan
+roofErr w:type="spellEnd"/> oleh  
+roofErr w:type="spellStart"/>generasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>muda
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>belum
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>berkembang
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sesuai
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>harapan
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>4. Belum  
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>prestasi
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>pemasyarakatan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>olahraga
+roofErr w:type="spellEnd"/>. Hal  
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>dikarenakan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kegiatan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kejuaraan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>untuk
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>menggali
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>bibit-bibit
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>altet
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>berprestasi
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>masih
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>kurang
+roofErr w:type="spellEnd"/>/
+roofErr w:type="spellStart"/>rendah
+roofErr w:type="spellEnd"/>,  dan 
+roofErr w:type="spellStart"/>upaya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>untuk
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>mensosialisasikan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>gerakan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemasyarakatan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>olahraga
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>belum
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>berjalan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>secara
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>berkelanjutan
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>5.   Masih 
+roofErr w:type="spellStart"/>terbatasnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sarana
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>prasarana
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>olahraga
+roofErr w:type="spellEnd"/> yang 
+roofErr w:type="spellStart"/>ada
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>g.
+roofErr w:type="spellStart"/>Kesatuan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Bangsa
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>Politik
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>Belum  
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pendidikan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>politik
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>untuk
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>membentuk
+roofErr w:type="spellEnd"/>  dan   
+roofErr w:type="spellStart"/>meningkatkan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kesadaran
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>politik
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>bagi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>warga
+roofErr w:type="spellEnd"/> Negara. Hal 
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>terlihat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dari
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>semakin
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>meningkatnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>angka
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>golput
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>beberapa
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pelaksanaan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemilu
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.Belum  
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pengembangan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>wawasan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kebangsaan
+roofErr w:type="spellEnd"/> dan  jati  
+roofErr w:type="spellStart"/>diri
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>bangsa
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/>. Hal  
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>ditandai
+roofErr w:type="spellEnd"/> oleh  
+roofErr w:type="spellStart"/>kurangnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemahaman
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dasar
+roofErr w:type="spellEnd"/> negara, 
+roofErr w:type="spellStart"/>nasionalisme
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>hak
+roofErr w:type="spellEnd"/>  dan  
+roofErr w:type="spellStart"/>kewajiban
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>warga
+roofErr w:type="spellEnd"/> negara, 
+roofErr w:type="spellStart"/>kesadaran
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>hukum
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>penghargaan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>hak
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>asasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>manusia
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3. Belum  
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>peran
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>lembaga
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kemasyarakatan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pengembangan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>wawasan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kebangsaan
+roofErr w:type="spellEnd"/>, jati 
+roofErr w:type="spellStart"/>diri
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>bangsa
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>nasionalisme
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>4.Masih  
+roofErr w:type="spellStart"/>adanya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>gangguan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>keamanan
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>ketentraman
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>ketertiban
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>umum
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>5. Belum    
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>pemberdayaan
+roofErr w:type="spellEnd"/>   dan    
+roofErr w:type="spellStart"/>partisipasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>meningkatkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ketertiban
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>umum
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>penanggulangan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>penyakit
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>ketentraman
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>6. Belum   
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>fungsi
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>perlindungan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/> (LINMAS) 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>melaksanakan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>penanganan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>awal
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kamtibmas
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>penyakit
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/> (
+roofErr w:type="spellStart"/>pekat
+roofErr w:type="spellEnd"/>)  dan  
+roofErr w:type="spellStart"/>tanggap
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>bencana
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>7. Belum    
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>upaya
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>peningkatan
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>kapasitas
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>rangka
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pengurangan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>resiko
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>bencana
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>h.
+roofErr w:type="spellStart"/>Otonomi
+roofErr w:type="spellEnd"/>     Desa,      Kinerja Lembaga 
+roofErr w:type="spellStart"/>Pemerintahan
+roofErr w:type="spellEnd"/>,      
+roofErr w:type="spellStart"/>Administrasi
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>Keuangan
+roofErr w:type="spellEnd"/>  Desa.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1. Belum 
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>fungsi
+roofErr w:type="spellEnd"/>  BPD 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>melaksanakan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>fungsi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>legislasi
+roofErr w:type="spellEnd"/>,  
+roofErr w:type="spellStart"/>fungsi
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>pengawasan
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>fungsi
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>penganggaran
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.
+roofErr w:type="spellStart"/>Pemerintah
+roofErr w:type="spellEnd"/>   Desa    
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>melaksanakan
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>pemerintahan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>belum
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>memenuhi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>aspirasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>secara
+roofErr w:type="spellEnd"/> optimal.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3.Belum  
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>upaya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>intensifikasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sumber-sumber
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pendapatan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>sejalan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>peraturan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>perundang
+roofErr w:type="spellEnd"/>- 
+roofErr w:type="spellStart"/>undangan
+roofErr w:type="spellEnd"/>, yang  
+roofErr w:type="spellStart"/>dapat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>menjamin
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>penyelenggaraan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemerintahan
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>pembangunan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>4.Belum  
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>penyediaan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sarana
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>prasarana
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>teknologi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>informasi
+roofErr w:type="spellEnd"/>  yang   
+roofErr w:type="spellStart"/>dapat
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>meningkatkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kinerja
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>pelayanan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>publik
+roofErr w:type="spellEnd"/> yang 
+roofErr w:type="spellStart"/>efektif
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>efisien
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>5.Belum   
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kerjasama
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>rangka
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>peningkatan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>penanaman
+roofErr w:type="spellEnd"/> modal, 
+roofErr w:type="spellStart"/>pelayanan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>publik
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>pengelolaan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sumber
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>daya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>alam
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>6.  Belum     
+roofErr w:type="spellStart"/>tersusunnya
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>Peraturan
+roofErr w:type="spellEnd"/>   Desa    
+roofErr w:type="spellStart"/>sesuai
+roofErr w:type="spellEnd"/>     
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kebutuhan
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>merespon
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>perkembangan
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>peraturan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>perundang-undangan
+roofErr w:type="spellEnd"/> yang 
+roofErr w:type="spellStart"/>lebih
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tinggi
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>7.Tingkat  
+roofErr w:type="spellStart"/>profesionalisme
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>atau
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>kemampuan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>aparatur
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemerintah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/>  yang   
+roofErr w:type="spellStart"/>masih
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>perlu
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ditingkatkan
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>sarana
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>prasarana
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>kurang
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>memadai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>menyebabkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pelayanan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>publik
+roofErr w:type="spellEnd"/>/
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>transparan
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>respondisf
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>akuntable
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>belum
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>dapat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>diwujudkan
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Pemberdayaan
+roofErr w:type="spellEnd"/>  Masyarakat
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Lemahnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kapasitas
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>terhadap
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemanfaatan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>potensi
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>sumber
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>daya
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>produktif
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>pengembangan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>usaha
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ekonomi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>produktif
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>relatif
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sedikit
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>belum
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>mampu
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>mengelola
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>mengembangkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>usaha
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>secara
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>baik
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.Belum    
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>partisipasi
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>mendukung
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pelaksanaan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pembangunan
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3. Belum    
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>fungsi
+roofErr w:type="spellEnd"/>     
+roofErr w:type="spellStart"/>kelembagaan
+roofErr w:type="spellEnd"/>   dan     
+roofErr w:type="spellStart"/>sistem
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>baik
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>sosial
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>maupun
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>ekonomi
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>menunjang
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemberdayaan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>4.Masih  
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>peran
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>perempuan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahapan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>perencanaan
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>pelaksanaan
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>evaluasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>hasil-hasil
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pembangunan
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>j. 
+roofErr w:type="spellStart"/>Statistik
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1.Belum 
+roofErr w:type="spellStart"/>terwujudnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sinkronisasi
+roofErr w:type="spellEnd"/> data  
+roofErr w:type="spellStart"/>untuk
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>keperluan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>perencanaan
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>evaluasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pembangunan
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.Belum  
+roofErr w:type="spellStart"/>tersedianya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sistem
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>informasi
+roofErr w:type="spellEnd"/> data  yang  
+roofErr w:type="spellStart"/>cepat
+roofErr w:type="spellEnd"/>  dan 
+roofErr w:type="spellStart"/>akurat
+roofErr w:type="spellEnd"/>.  Hal   
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>menjadi
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>kendala
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>penyusunan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dokumen
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>perencanaan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pembangunan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/>  dan  
+roofErr w:type="spellStart"/>dokumen
+roofErr w:type="spellEnd"/>- 
+roofErr w:type="spellStart"/>dokumen
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>lainnya
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>k.
+roofErr w:type="spellStart"/>Kearsipan
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1.Belum  
+roofErr w:type="spellStart"/>terbangunnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sistem
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>administrasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kearsipan
+roofErr w:type="spellEnd"/> yang 
+roofErr w:type="spellStart"/>informatif
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>handal
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>disebabkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>belum
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>adanya
+roofErr w:type="spellEnd"/> database dan 
+roofErr w:type="spellStart"/>jaringan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>informasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kearsipan
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.Belum 
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>upaya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>penyelamatan
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>pelestarian
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dokumen
+roofErr w:type="spellEnd"/>/
+roofErr w:type="spellStart"/>arsip
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/>,   
+roofErr w:type="spellStart"/>disebabkan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>terbatasnya
+roofErr w:type="spellEnd"/>  SDM 
+roofErr w:type="spellStart"/>pengelola
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kearsipan
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>masih
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kurang
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>melakukan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pendataan
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>pengolahan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dokumen
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>arsip
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3. Kurang       
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/>       
+roofErr w:type="spellStart"/>pemeliharaan
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>terhadap
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dokumen
+roofErr w:type="spellEnd"/>/
+roofErr w:type="spellStart"/>arsip
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/>   dan   
+roofErr w:type="spellStart"/>sarana
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>prasarana
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>pengolahan
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>penyimpanan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dokumen
+roofErr w:type="spellEnd"/>/
+roofErr w:type="spellStart"/>arsip
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="00385FCF">
+Pr>
+roofErr w:type="spellStart"/>Komunikasi
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>Informatika
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1.Belum     
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>penyelenggaraan
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>komunikasi
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>informasi
+roofErr w:type="spellEnd"/> dan media 
+roofErr w:type="spellStart"/>massa
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kepada
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2. Belum      
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/>     
+roofErr w:type="spellStart"/>sistem
+roofErr w:type="spellEnd"/>       
+roofErr w:type="spellStart"/>informasi
+roofErr w:type="spellEnd"/>     
+roofErr w:type="spellStart"/>manajemen
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemerintah
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>untuk
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>penyebaran
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>informasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pembangunan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/>.    Hal   
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>disebabkan
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>keterbatasan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sarana
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>prasarana
+roofErr w:type="spellEnd"/>,  
+roofErr w:type="spellStart"/>serta
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>pengelolaan
+roofErr w:type="spellEnd"/>  data   dan   
+roofErr w:type="spellStart"/>informasi
+roofErr w:type="spellEnd"/> yang 
+roofErr w:type="spellStart"/>belum
+roofErr w:type="spellEnd"/> optimal.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3.Kurang 
+roofErr w:type="spellStart"/>memadainya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kualitas
+roofErr w:type="spellEnd"/> SDM   
+roofErr w:type="spellStart"/>dibidang
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>komunikasi
+roofErr w:type="spellEnd"/> dan    
+roofErr w:type="spellStart"/>informatika
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>karena
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>minimnya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>keterampilan
+roofErr w:type="spellEnd"/>  dan 
+roofErr w:type="spellStart"/>keahlian
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>hal
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>penggunaan
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>pengembangan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>teknologi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>informasi
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>4.Kurang  
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>penyebarluasan
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>informasi
+roofErr w:type="spellEnd"/>  dan 
+roofErr w:type="spellStart"/>penyelenggaraan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemerintahan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/>.  Hal  
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>disebabkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>karena
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>terbatasnya
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>sarana
+roofErr w:type="spellEnd"/>   dan     
+roofErr w:type="spellStart"/>prasarana
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>dibidang
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>teknologi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>informasi
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>m.
+roofErr w:type="spellStart"/>Perpustakaan
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1.Masih  
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>minat
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>baca
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>disebabkan
+roofErr w:type="spellEnd"/> oleh  
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>budaya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>membaca
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/>, dan 
+roofErr w:type="spellStart"/>tebatasnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>jumlah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>koleksi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>buku
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>perpustakaan
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.Belum   
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>penyelenggaraan
+roofErr w:type="spellEnd"/>  dan   
+roofErr w:type="spellStart"/>pelayanan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>perpustakaan
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/>,    
+roofErr w:type="spellStart"/>disebabkan
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>kurang
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>memadainya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sarana
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>prasarana
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>perpustakaan
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>minimnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tenaga
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pengelola
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>perpustakaan
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.1.4. 
+roofErr w:type="spellStart"/>Keadaan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Ekomi
+roofErr w:type="spellEnd"/> 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>.        
+roofErr w:type="spellStart"/>Pengembangan
+roofErr w:type="spellEnd"/> Wilayah/Kawasan 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>a.    Lahan 
+roofErr w:type="spellStart"/>Pertanian
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1. Masih  
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tingkat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kesjahteraan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>petani
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>karena
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kepemilikan
+roofErr w:type="spellEnd"/> sawah oleh 
+roofErr w:type="spellStart"/>petani
+roofErr w:type="spellEnd"/> rata-rata ¼ 
+roofErr w:type="spellStart"/>hektar
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.   Masih  
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kualitas
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sumber
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>daya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>manusia
+roofErr w:type="spellEnd"/> (SDM) 
+roofErr w:type="spellStart"/>petani
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3. Belum     
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>peningkatan
+roofErr w:type="spellEnd"/>    SDM 
+roofErr w:type="spellStart"/>Kelembagaan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Kelompok
+roofErr w:type="spellEnd"/> Tani.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>4. Belum  
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>diversifikasi
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>intensifikasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>serta
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemanfaatan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>lahan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>pertanian
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>pengembangan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>holtikultura
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>buah-buahan
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>sayuran
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>5. 
+roofErr w:type="spellStart"/>Lemahnya
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>permodalan
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>usaha
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>pertanian
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>serta
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>masih
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tingginya
+roofErr w:type="spellEnd"/> bunga bank 
+roofErr w:type="spellStart"/>untuk
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>usaha
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tani
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>6. Tidak   
+roofErr w:type="spellStart"/>stabilnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>stok
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>pupuk
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>obat
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>serta
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>tingginya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>harga
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>saprodi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pertanian
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>7. Tidak  
+roofErr w:type="spellStart"/>stabilnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>harga
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>produksi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pertanian
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>nilai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tukar
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>produk
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pertanian
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>serta
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>masih
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemasaran
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>hasil
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pertanian
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>8.Masih  
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>hasil
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>produksi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ternak
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>ditandai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>fluktuatifnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>hasil
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>produksi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>peternakan
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>9. Masih   
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kualitas
+roofErr w:type="spellEnd"/>  dan   
+roofErr w:type="spellStart"/>kuantitas
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>pakan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>ternak
+roofErr w:type="spellEnd"/> pada 
+roofErr w:type="spellStart"/>musim
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kemarau
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>10.Belum  
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>pengelolaan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>hasil-hasil
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pertanian
+roofErr w:type="spellEnd"/>  dan 
+roofErr w:type="spellStart"/>peternakan
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>11. Belum 
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>penyebaran
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>informasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pertanian
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>12. Belum 
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>penyajian
+roofErr w:type="spellEnd"/> data  
+roofErr w:type="spellStart"/>statistik
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pertanian
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>b.   
+roofErr w:type="spellStart"/>Pariwisata
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1.Belum  
+roofErr w:type="spellStart"/>adanya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>jalinan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kemitraan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>antara
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemerintah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/> dunia 
+roofErr w:type="spellStart"/>usaha
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>untuk
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>menggali
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>potensi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pariwisata
+roofErr w:type="spellEnd"/> di 
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2. Belum    
+roofErr w:type="spellStart"/>adanya
+roofErr w:type="spellEnd"/>  master   plan   
+roofErr w:type="spellStart"/>pengembangan
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>pariwisata
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>berbasis
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pertanian
+roofErr w:type="spellEnd"/> (
+roofErr w:type="spellStart"/>agrowisata
+roofErr w:type="spellEnd"/>) 
+roofErr w:type="spellStart"/>desa
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>c.    
+roofErr w:type="spellStart"/>Perdagangan
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1.Belum 
+roofErr w:type="spellStart"/>optimalnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ketersediaan
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>distribusi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>bahan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kebutuhan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pokok
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>harga
+roofErr w:type="spellEnd"/> yang   
+roofErr w:type="spellStart"/>layak
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>terjangkau
+roofErr w:type="spellEnd"/>, dan 
+roofErr w:type="spellStart"/>belum
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>terintegrasinya
+roofErr w:type="spellEnd"/> pasar 
+roofErr w:type="spellStart"/>lokal
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2. 
+roofErr w:type="spellStart"/>Munculnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masalah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sosial
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>akibat
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>dari
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>banyaknya
+roofErr w:type="spellEnd"/> pasar 
+roofErr w:type="spellStart"/>swalayan
+roofErr w:type="spellEnd"/>/pasar modern, dan  
+roofErr w:type="spellStart"/>keberadaan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>toko
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kelontong
+roofErr w:type="spellEnd"/> dan/
+roofErr w:type="spellStart"/>atau
+roofErr w:type="spellEnd"/> pasar 
+roofErr w:type="spellStart"/>tradisional
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>sudah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ada
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kurang
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>mendapat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>perlindungan
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3. 
+roofErr w:type="spellStart"/>Tingginya
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>biaya
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>ekonomi
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>akibat
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>dari
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>masih
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>rendahnya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>infrastruktur
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>penunjang
+roofErr w:type="spellEnd"/>   yang   
+roofErr w:type="spellStart"/>telah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>menyebabkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>turunnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>daya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>saing
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>produk
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>4.2.    
+roofErr w:type="spellStart"/>Isu-isu
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>Strategis
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Kondisi
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>lingkungan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>secara
+roofErr w:type="spellEnd"/>  regional 
+roofErr w:type="spellStart"/>saat
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/>  yang  
+roofErr w:type="spellStart"/>terkait
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>isu-isu
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>strategis
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>adalah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sebagai
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>berikut
+roofErr w:type="spellEnd"/>:
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1.   
+roofErr w:type="spellStart"/>Tingginya
+roofErr w:type="spellEnd"/> Angka 
+roofErr w:type="spellStart"/>Kemiskinan
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>Pengangguran
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Angka  
+roofErr w:type="spellStart"/>kemiskinan
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>pengangguran
+roofErr w:type="spellEnd"/> di Indonesia 
+roofErr w:type="spellStart"/>dari
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ke
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>mengalami
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>peningkatan
+roofErr w:type="spellEnd"/>. Hal  
+roofErr w:type="spellStart"/>ini
+roofErr w:type="spellEnd"/>  sangat 
+roofErr w:type="spellStart"/>ironis
+roofErr w:type="spellEnd"/>,   
+roofErr w:type="spellStart"/>dimana
+roofErr w:type="spellEnd"/> Indonesia 
+roofErr w:type="spellStart"/>merupakan
+roofErr w:type="spellEnd"/> negara 
+roofErr w:type="spellStart"/>kepulauan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>terbesar
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>memiliki
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sumber
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>daya
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>alam
+roofErr w:type="spellEnd"/>    yang    sangat  
+roofErr w:type="spellStart"/>melimpah
+roofErr w:type="spellEnd"/>,  
+roofErr w:type="spellStart"/>selain
+roofErr w:type="spellEnd"/>    di   
+roofErr w:type="spellStart"/>bidang
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pertanian
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>kelautan
+roofErr w:type="spellEnd"/>. 
+roofErr w:type="spellStart"/>Beberapa
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>penyebab
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tingginya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>angka
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kemiskinan
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>pengangguran
+roofErr w:type="spellEnd"/> di Indonesia 
+roofErr w:type="spellStart"/>adalah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>karena
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kualitas
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sumber
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>daya
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>manusia
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>masih
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>rendah
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>kesempatan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kerja
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>bagi
+roofErr w:type="spellEnd"/>  rakyat miskin  sangat 
+roofErr w:type="spellStart"/>kecil
+roofErr w:type="spellEnd"/>.  Hal  
+roofErr w:type="spellStart"/>tersebut
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dapat
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kita
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>jumpai
+roofErr w:type="spellEnd"/> di 
+roofErr w:type="spellStart"/>perdesaan
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>banyak
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sekali
+roofErr w:type="spellEnd"/>  rakyat miskin  yang  
+roofErr w:type="spellStart"/>mendapatkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kesempatan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>untuk
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>memperoleh
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pekerjaan
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Di lain 
+roofErr w:type="spellStart"/>pihak
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>meningkatnya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pengangguran
+roofErr w:type="spellEnd"/> di Indonesia 
+roofErr w:type="spellStart"/>disebabkan
+roofErr w:type="spellEnd"/>  pula   
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>banyaknya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>pihak
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>swasta
+roofErr w:type="spellEnd"/>  yang 
+roofErr w:type="spellStart"/>mengirimkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>barang
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ke
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>luar
+roofErr w:type="spellEnd"/>  negeri.   Hal  
+roofErr w:type="spellStart"/>itu
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>mengurangi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tingkat
+roofErr w:type="spellEnd"/> para    
+roofErr w:type="spellStart"/>pekerja
+roofErr w:type="spellEnd"/>,     yang    
+roofErr w:type="spellStart"/>seharusnya
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>mereka
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>layak
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>mendapatkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pekerjaan
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>karen
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>itu
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>merupakan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>produk
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>lokal
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Tingginya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>angka
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kemiskinan
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>pengangguran
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>merupakan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>permasalahan
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>serius
+roofErr w:type="spellEnd"/>  yang  
+roofErr w:type="spellStart"/>dihadapi
+roofErr w:type="spellEnd"/> oleh 
+roofErr w:type="spellStart"/>pemerintah
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>baik
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemerintah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pusat
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>pemerintah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>provinsi
+roofErr w:type="spellEnd"/> Jawa   Barat,  
+roofErr w:type="spellStart"/>Pemerintah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Kabupaten
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Sukabumi
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>termasuk
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Pemerintah
+roofErr w:type="spellEnd"/> Desa CARINGIN 
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.   
+roofErr w:type="spellStart"/>Tuntutan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>Perwujudan
+roofErr w:type="spellEnd"/> Good  and Clean Governance  yang  
+roofErr w:type="spellStart"/>semakin
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kuat
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Menciptakan
+roofErr w:type="spellEnd"/> tata  
+roofErr w:type="spellStart"/>pemerintahan
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>bersih
+roofErr w:type="spellEnd"/>  dan  
+roofErr w:type="spellStart"/>berwibawa
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>merupakan
+roofErr w:type="spellEnd"/> salah  
+roofErr w:type="spellStart"/>satu
+roofErr w:type="spellEnd"/>  agenda 
+roofErr w:type="spellStart"/>penting
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pembangunan
+roofErr w:type="spellEnd"/>. Hal 
+roofErr w:type="spellStart"/>tersebut
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>merupakan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>upaya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>untuk
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>mewujudkan
+roofErr w:type="spellEnd"/> tata  
+roofErr w:type="spellStart"/>pemerintahan
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>baik
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sesuai
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tuntutan
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>kebutuhan
+roofErr w:type="spellEnd"/> rakyat Indonesia. 
+roofErr w:type="spellStart"/>diantaranya
+roofErr w:type="spellEnd"/> : 
+roofErr w:type="spellStart"/>Keterbukaan
+roofErr w:type="spellEnd"/>,  
+roofErr w:type="spellStart"/>akuntabilitas
+roofErr w:type="spellEnd"/>,  
+roofErr w:type="spellStart"/>efektifitas
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>efisiensi
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>menjunjung
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tinggi
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>supremasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>hukum
+roofErr w:type="spellEnd"/>, dan  
+roofErr w:type="spellStart"/>membuka
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>partisipasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>masyarakat
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>dapat
+roofErr w:type="spellEnd"/>    
+roofErr w:type="spellStart"/>menjamin
+roofErr w:type="spellEnd"/>     
+roofErr w:type="spellStart"/>kelancaran
+roofErr w:type="spellEnd"/>,    
+roofErr w:type="spellStart"/>keserasian
+roofErr w:type="spellEnd"/>,    dan 
+roofErr w:type="spellStart"/>keterpaduan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tugas
+roofErr w:type="spellEnd"/>  dan  
+roofErr w:type="spellStart"/>fungsi
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>penyelenggaraan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemerintahan
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>pembangunan
+roofErr w:type="spellEnd"/>.  
+roofErr w:type="spellStart"/>Untuk
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>itu
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>diperlukan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>langkah-langkah
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kebijakan
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>terarah
+roofErr w:type="spellEnd"/> pada 
+roofErr w:type="spellStart"/>perubahan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>kelembagaan
+roofErr w:type="spellEnd"/> dan  
+roofErr w:type="spellStart"/>sistem
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ketatalaksanaan
+roofErr w:type="spellEnd"/>, 
+roofErr w:type="spellStart"/>kualitas
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>sumber
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>daya
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>aparatur
+roofErr w:type="spellEnd"/>, dan 
+roofErr w:type="spellStart"/>sistem
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pengawasan
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>pemeriksaan
+roofErr w:type="spellEnd"/> yang 
+roofErr w:type="spellStart"/>efektif
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Untuk
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>itu
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>dibutuhkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>suatu
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>upaya
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>lebih
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>komprehensif
+roofErr w:type="spellEnd"/> dan   
+roofErr w:type="spellStart"/>terintegrasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>mendorong
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>peningkatan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>kinerja
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>birokrasi
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>aparatur
+roofErr w:type="spellEnd"/> negara 
+roofErr w:type="spellStart"/>dalam
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>menciptakan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pemerintahan
+roofErr w:type="spellEnd"/> yang  
+roofErr w:type="spellStart"/>bersih
+roofErr w:type="spellEnd"/>  dan 
+roofErr w:type="spellStart"/>akuntabel
+roofErr w:type="spellEnd"/> yang 
+roofErr w:type="spellStart"/>merupakan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>amanah
+roofErr w:type="spellEnd"/> reformasi dan 
+roofErr w:type="spellStart"/>tuntutan
+roofErr w:type="spellEnd"/> rakyat
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.3. Data 
+roofErr w:type="spellStart"/>Sumber
+roofErr w:type="spellEnd"/> Daya Desa
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.3.1. 
+roofErr w:type="spellStart"/>Sumber
+roofErr w:type="spellEnd"/> Daya 
+roofErr w:type="spellStart"/>Manusia
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Penduduk
+roofErr w:type="spellEnd"/>  Desa  
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>terus
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>mengalami
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>pertumbuhan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dari
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>ke
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/>,  
+roofErr w:type="spellStart"/>dari
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 2010 
+roofErr w:type="spellStart"/>sebanyak
+roofErr w:type="spellEnd"/> 6.687  
+roofErr w:type="spellStart"/>jiwa
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>mengalami
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pertumbuhan
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>sebesar
+roofErr w:type="spellEnd"/> 0.90 % 
+roofErr w:type="spellStart"/>sampai
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 2014 
+roofErr w:type="spellStart"/>menjadi
+roofErr w:type="spellEnd"/>  7.125 
+roofErr w:type="spellStart"/>jiwa
+roofErr w:type="spellEnd"/>.  Data 
+roofErr w:type="spellStart"/>tersebut
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>menunjukkan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>bahwa
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>jumlah
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>penduduk
+roofErr w:type="spellEnd"/> Desa 
+roofErr w:type="spellStart"/>Caringin
+roofErr w:type="spellEnd"/>   
+roofErr w:type="spellStart"/>selama
+roofErr w:type="spellEnd"/>   4  
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>terjadi
+roofErr w:type="spellEnd"/>  
+roofErr w:type="spellStart"/>penambahan
+roofErr w:type="spellEnd"/> 400  
+roofErr w:type="spellStart"/>jiwa
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>dengan
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>pertumbuhan
+roofErr w:type="spellEnd"/> rata-rata 0.25 % per 
+roofErr w:type="spellStart"/>tahun
+roofErr w:type="spellEnd"/>.
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Tabel 2.2. Data 
+roofErr w:type="spellStart"/>Sumberdaya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Manusia
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>No
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Uraian
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Sumberdaya
+roofErr w:type="spellEnd"/> 
+roofErr w:type="spellStart"/>Manusia
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Volume
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Satuan
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>1
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Penduduk
+roofErr w:type="spellEnd"/> dan 
+roofErr w:type="spellStart"/>Keluarga
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Laki-
+roofErr w:type="spellStart"/>laki
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3,724
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Org
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Perempuan
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>3,723
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>Org
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>
+roofErr w:type="spellStart"/>Keluarga
+roofErr w:type="spellEnd"/>
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>2.695
+ w:rsidR="0027360B" w:rsidRPr="0027360B" w:rsidRDefault="0027360B" w:rsidP="0027360B">
+Pr>KK
+ w:rsidR="000C7082" w:rsidRPr="002F711F" w:rsidRDefault="00A40C94" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="002F711F" w:rsidP="002F711F">
+Pr>-4095754254500
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00F07C36" w:rsidRPr="002F711F" w:rsidRDefault="00F07C36" w:rsidP="002F711F">
+Pr>
+ w:rsidR="000C7082" w:rsidRPr="002F711F" w:rsidRDefault="000C7082" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00B12183" w:rsidRPr="002F711F" w:rsidRDefault="00B12183" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00B12183" w:rsidRPr="002F711F" w:rsidRDefault="00B12183" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00580322" w:rsidRPr="002F711F" w:rsidRDefault="00580322" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00580322" w:rsidRPr="002F711F" w:rsidRDefault="00580322" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00580322" w:rsidRPr="002F711F" w:rsidRDefault="00580322" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00580322" w:rsidRPr="002F711F" w:rsidRDefault="00580322" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00580322" w:rsidRPr="002F711F" w:rsidRDefault="00580322" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00EE297B" w:rsidRPr="002F711F" w:rsidRDefault="00EE297B" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00EE297B" w:rsidRPr="002F711F" w:rsidRDefault="00EE297B" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00B12183" w:rsidRPr="002F711F" w:rsidRDefault="00B12183" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00580322" w:rsidRPr="002F711F" w:rsidRDefault="00580322" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00580322" w:rsidRPr="002F711F" w:rsidRDefault="00580322" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00C867AF" w:rsidRPr="002F711F" w:rsidRDefault="00C867AF" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00C867AF" w:rsidRPr="002F711F" w:rsidRDefault="00C867AF" w:rsidP="002F711F">
+Pr>
+ w:rsidR="0027360B" w:rsidRDefault="0027360B" w:rsidP="002F711F">
+Pr>
+ w:rsidR="0027360B" w:rsidRDefault="0027360B" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00C867AF" w:rsidRPr="002F711F" w:rsidRDefault="00C867AF" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00C867AF" w:rsidRPr="002F711F" w:rsidRDefault="00C867AF" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00C867AF" w:rsidRPr="002F711F" w:rsidRDefault="00C867AF" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00C867AF" w:rsidRPr="002F711F" w:rsidRDefault="00C867AF" w:rsidP="002F711F">
+Pr>
+ w:rsidR="00C867AF" w:rsidRPr="002F711F" w:rsidRDefault="00C867AF" w:rsidP="002F711F">
+Pr>
+ w:rsidR="005A16B4" w:rsidRPr="002F711F" w:rsidRDefault="005A16B4" w:rsidP="002F711F">
+Pr>
+gSz w:w="11907" w:h="16839" w:code="9"/>
+gMar w:top="567" w:right="1440" w:bottom="851" w:left="1440" w:header="720" w:footer="720" w:gutter="0"/>

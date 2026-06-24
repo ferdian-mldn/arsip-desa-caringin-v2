@@ -8,11 +8,11 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
     <style>
-        :root {
-            --navy: #0A2540;
-            --steel: #334E68;
-            --offwhite: #F8F9FB;
-            --charcoal: #111827;
+        :root { --accent: #FFD600;
+            --navy: #0F9D58;
+            --steel: #34A853;
+            --offwhite: #F5F7FA;
+            --text-main: #000000;
             --softgray: #E5E7EB;
             --gold: #C9A24D;
             --gold-light: #E6D3A6;
@@ -32,7 +32,7 @@
         .login-card {
             background: white;
             border-radius: 20px;
-            box-shadow: 0 20px 60px rgba(10, 37, 64, 0.1);
+            box-shadow: 0 20px 60px rgba(15, 157, 88, 0.1);
             overflow: hidden;
             border: 1px solid var(--softgray);
             max-width: 440px;
@@ -152,7 +152,7 @@
         
         .btn-primary:hover {
             transform: translateY(-2px);
-            box-shadow: 0 10px 25px rgba(10, 37, 64, 0.2);
+            box-shadow: 0 10px 25px rgba(15, 157, 88, 0.2);
         }
         
         .checkbox-container {
@@ -247,7 +247,9 @@
                 padding: 2rem;
             }
         }
-    </style>
+        .bg-accent { background-color: var(--accent); }
+    .text-accent { color: var(--accent); }
+</style>
 </head>
 <body>
     <div class="login-card">

@@ -3,19 +3,19 @@
 @section('title', 'Data Arsip Dokumen')
 
 @section('content')
-<div class="min-h-screen bg-off-white py-4 sm:py-6">
+<div class="min-h-screen bg-bg-app py-4 sm:py-6">
     <div class="container mx-auto px-3 sm:px-4">
         <!-- Header Section -->
         <div class="mb-6">
             <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4 mb-4">
                 <div class="w-full">
-                    <h1 class="text-2xl sm:text-3xl font-bold text-navy-blue mb-1">Arsip Dokumen Desa</h1>
-                    <p class="text-sm sm:text-base text-steel-blue/80 font-medium">Kelola dan telusuri seluruh dokumen arsip desa</p>
+                    <h1 class="text-2xl sm:text-3xl font-bold text-primary mb-1">Arsip Dokumen Desa</h1>
+                    <p class="text-sm sm:text-base text-secondary/80 font-medium">Kelola dan telusuri seluruh dokumen arsip desa</p>
                 </div>
                 
                 @if(Auth::user()->role->nama_peran !== 'Viewer')
                 <a href="{{ route('dokumen.create') }}" 
-                   class="w-full md:w-auto inline-flex items-center justify-center px-4 sm:px-6 py-2.5 sm:py-3 bg-navy-blue text-white font-semibold rounded-xl shadow-lg hover:bg-steel-blue transition-all duration-200 hover:shadow-xl focus:outline-none focus:ring-2 focus:ring-navy-blue/50">
+                   class="w-full md:w-auto inline-flex items-center justify-center px-4 sm:px-6 py-2.5 sm:py-3 bg-primary text-white font-semibold rounded-xl shadow-lg hover:bg-secondary transition-all duration-200 hover:shadow-xl focus:outline-none focus:ring-2 focus:ring-primary/50">
                     <svg class="w-4 h-4 sm:w-5 sm:h-5 mr-1.5 sm:mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 4v16m8-8H4"/>
                     </svg>
@@ -41,26 +41,26 @@
         <div class="bg-white rounded-xl sm:rounded-2xl shadow-lg border border-soft-gray mb-6 sm:mb-8 overflow-hidden">
             <div class="p-4 sm:p-6">
                 <div class="flex items-center mb-3 sm:mb-4">
-                    <svg class="w-4 h-4 sm:w-5 sm:h-5 text-navy-blue mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <svg class="w-4 h-4 sm:w-5 sm:h-5 text-primary mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"/>
                     </svg>
-                    <h3 class="text-base sm:text-lg font-semibold text-navy-blue">Filter Dokumen</h3>
+                    <h3 class="text-base sm:text-lg font-semibold text-primary">Filter Dokumen</h3>
                 </div>
                 
                 <form action="{{ route('dokumen.index') }}" method="GET" class="space-y-3 sm:space-y-0 sm:grid sm:grid-cols-1 md:grid-cols-3 gap-3 sm:gap-4">
                     <div class="space-y-1.5">
-                        <label class="block text-xs sm:text-sm font-medium text-charcoal/70">Cari Dokumen</label>
+                        <label class="block text-xs sm:text-sm font-medium text-text-main/70">Cari Dokumen</label>
                         <input type="text" 
                                name="cari" 
                                value="{{ request('cari') }}" 
                                placeholder="Judul, nomor, atau kata kunci..." 
-                               class="w-full px-3 sm:px-4 py-2 sm:py-3 text-sm bg-off-white border border-soft-gray rounded-lg sm:rounded-xl focus:outline-none focus:ring-2 focus:ring-navy-blue/20 focus:border-navy-blue transition-all duration-200">
+                               class="w-full px-3 sm:px-4 py-2 sm:py-3 text-sm bg-bg-app border border-soft-gray rounded-lg sm:rounded-xl focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all duration-200">
                     </div>
                     
                     <div class="space-y-1.5">
-                        <label class="block text-xs sm:text-sm font-medium text-charcoal/70">Kategori</label>
+                        <label class="block text-xs sm:text-sm font-medium text-text-main/70">Kategori</label>
                         <select name="kategori" 
-                                class="w-full px-3 sm:px-4 py-2 sm:py-3 text-sm bg-off-white border border-soft-gray rounded-lg sm:rounded-xl focus:outline-none focus:ring-2 focus:ring-navy-blue/20 focus:border-navy-blue transition-all duration-200">
+                                class="w-full px-3 sm:px-4 py-2 sm:py-3 text-sm bg-bg-app border border-soft-gray rounded-lg sm:rounded-xl focus:outline-none focus:ring-2 focus:ring-primary/20 focus:border-primary transition-all duration-200">
                             <option value="">Semua Kategori</option>
                             @foreach($kategori as $k)
                                 <option value="{{ $k->id }}" {{ request('kategori') == $k->id ? 'selected' : '' }}>
@@ -72,7 +72,7 @@
                     
                     <div class="flex items-end pt-2 sm:pt-0">
                         <button type="submit" 
-                                class="w-full sm:w-auto px-4 sm:px-6 py-2.5 sm:py-3 bg-navy-blue text-white text-sm sm:text-base font-semibold rounded-lg sm:rounded-xl hover:bg-steel-blue hover:shadow-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-navy-blue/50">
+                                class="w-full sm:w-auto px-4 sm:px-6 py-2.5 sm:py-3 bg-primary text-white text-sm sm:text-base font-semibold rounded-lg sm:rounded-xl hover:bg-secondary hover:shadow-lg transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-primary/50">
                             Terapkan Filter
                         </button>
                     </div>
@@ -110,7 +110,7 @@
         <!-- Documents Table Card -->
         <div class="bg-white rounded-xl sm:rounded-2xl shadow-lg border border-soft-gray overflow-hidden">
             <!-- Table Header -->
-            <div class="px-4 sm:px-6 py-3 sm:py-4 bg-navy-blue">
+            <div class="px-4 sm:px-6 py-3 sm:py-4 bg-primary">
                 <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-2 sm:gap-0">
                     <div class="flex items-center">
                         <svg class="w-4 h-4 sm:w-5 sm:h-5 text-white mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -124,64 +124,71 @@
                 </div>
             </div>
 
-            <!-- Mobile View (Cards) - Diperbaiki untuk tampilan HP -->
+            <!-- Mobile View (Cards) -->
             <div class="sm:hidden">
                 <div class="divide-y divide-soft-gray/50">
                     @forelse($dokumen as $dok)
-                    <div class="p-3 hover:bg-off-white/50 transition-colors duration-150">
+                    <div class="p-3 hover:bg-bg-app/50 transition-colors duration-150">
                         <!-- Document Header -->
                         <div class="flex items-start gap-3 mb-2">
-                            <div class="shrink-0 w-10 h-10 rounded-lg bg-navy-blue/10 flex items-center justify-center">
-                                <svg class="w-5 h-5 text-navy-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <div class="shrink-0 w-10 h-10 rounded-lg bg-primary/10 flex items-center justify-center">
+                                <svg class="w-5 h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                 </svg>
                             </div>
                             <div class="flex-1 min-w-0">
                                 <a href="{{ route('dokumen.show', $dok->id) }}" 
-                                   class="text-sm font-semibold text-navy-blue hover:text-steel-blue line-clamp-2 block transition-colors"
+                                   class="text-sm font-semibold text-primary hover:text-secondary line-clamp-2 block transition-colors"
                                    title="{{ $dok->judul_dokumen }}">
                                     {{ $dok->judul_dokumen }}
                                 </a>
-                                <p class="text-xs text-steel-blue mt-1">{{ $dok->nomor_dokumen }}</p>
+                                <p class="text-xs text-secondary mt-1">{{ $dok->nomor_dokumen }}</p>
                             </div>
                         </div>
 
-                        <!-- Document Details (Grid yang lebih rapi) -->
+                        <!-- Document Details -->
                         <div class="grid grid-cols-2 gap-2 mb-3 ml-13">
                             <!-- Kategori -->
                             <div class="space-y-1">
-                                <p class="text-xs text-charcoal/60">Kategori</p>
-                                <span class="inline-flex items-center px-2 py-1 rounded-full text-xs font-medium bg-navy-blue/10 text-navy-blue border border-navy-blue/20">
+                                <p class="text-xs text-text-main/60">Kategori</p>
+                                @php
+                                    $hash = md5($dok->kategori->nama_kategori);
+                                    $hue = hexdec(substr($hash, 0, 4)) % 360;
+                                @endphp
+                                <span class="inline-flex items-center px-2 py-1 rounded-full text-xs font-semibold border border-soft-gray shadow-sm" style="background-color: hsl({{ $hue }}, 85%, 85%); color: #000000;">
                                     {{ $dok->kategori->nama_kategori }}
                                 </span>
                             </div>
                             
                             <!-- Tahun -->
                             <div class="space-y-1">
-                                <p class="text-xs text-charcoal/60">Tahun</p>
+                                <p class="text-xs text-text-main/60">Tahun</p>
                                 <div class="flex items-center gap-1">
-                                    <svg class="w-3 h-3 text-charcoal/50 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <svg class="w-3 h-3 text-text-main/50 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
                                     </svg>
-                                    <p class="text-xs font-medium text-charcoal">{{ $dok->tahun_dokumen }}</p>
+                                    <p class="text-xs font-medium text-text-main">{{ $dok->tahun_dokumen }}</p>
                                 </div>
                             </div>
                             
                             <!-- Unit Kerja -->
                             <div class="space-y-1 col-span-2">
-                                <p class="text-xs text-charcoal/60">Unit Kerja</p>
-                                <div class="flex items-center gap-1">
-                                    <svg class="w-3 h-3 text-charcoal/50 shrink-0" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <p class="text-xs text-text-main/60">Unit Kerja</p>
+                                @php
+                                    $nama_unit = $dok->unitKerja->nama_unit ?? 'Admin';
+                                    $hashUnit = md5($nama_unit);
+                                    $hueUnit = hexdec(substr($hashUnit, 0, 4)) % 360;
+                                @endphp
+                                <span class="inline-flex items-center px-2 py-1 rounded-full text-xs font-semibold border border-soft-gray shadow-sm" style="background-color: hsl({{ $hueUnit }}, 85%, 85%); color: #000000;">
+                                    <svg class="w-3 h-3 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/>
                                     </svg>
-                                    <p class="text-xs font-medium text-charcoal truncate">
-                                        {{ $dok->unitKerja->nama_unit ?? 'Admin' }}
-                                    </p>
-                                </div>
+                                    <span class="truncate">{{ $nama_unit }}</span>
+                                </span>
                             </div>
                         </div>
 
-                        <!-- Action Buttons (diperbaiki spacing untuk mobile) -->
+                        <!-- Action Buttons -->
                         <div class="flex items-center justify-between pt-2 border-t border-soft-gray/50 mt-3">
                             <div class="flex items-center gap-3">
                                 <!-- View -->
@@ -224,20 +231,20 @@
                             
                             <!-- Quick View Button -->
                             <a href="{{ route('dokumen.show', $dok->id) }}" 
-                               class="text-xs font-medium text-navy-blue hover:text-steel-blue transition-colors px-2 py-1">
+                               class="text-xs font-medium text-primary hover:text-secondary transition-colors px-2 py-1">
                                 Detail →
                             </a>
                         </div>
                     </div>
                     @empty
                     <div class="p-6 text-center">
-                        <div class="w-14 h-14 mx-auto mb-3 rounded-full bg-off-white flex items-center justify-center">
-                            <svg class="w-7 h-7 text-charcoal/30" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <div class="w-14 h-14 mx-auto mb-3 rounded-full bg-bg-app flex items-center justify-center">
+                            <svg class="w-7 h-7 text-text-main/30" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                             </svg>
                         </div>
-                        <p class="text-base font-medium text-charcoal/60 mb-1">Belum ada dokumen</p>
-                        <p class="text-sm text-charcoal/40">Mulai dengan mengunggah dokumen pertama Anda</p>
+                        <p class="text-base font-medium text-text-main/60 mb-1">Belum ada dokumen</p>
+                        <p class="text-sm text-text-main/40">Mulai dengan mengunggah dokumen pertama Anda</p>
                     </div>
                     @endforelse
                 </div>
@@ -248,42 +255,42 @@
                 <div class="overflow-x-auto">
                     <table class="min-w-full">
                         <thead>
-                            <tr class="bg-off-white">
-                                <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-navy-blue uppercase tracking-wider">
+                            <tr class="bg-bg-app">
+                                <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-primary uppercase tracking-wider">
                                     Judul Dokumen
                                 </th>
-                                <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-navy-blue uppercase tracking-wider">
+                                <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-primary uppercase tracking-wider">
                                     Kategori
                                 </th>
-                                <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-navy-blue uppercase tracking-wider">
+                                <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-primary uppercase tracking-wider">
                                     Unit Kerja
                                 </th>
-                                <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-navy-blue uppercase tracking-wider">
+                                <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-primary uppercase tracking-wider">
                                     Tahun
                                 </th>
-                                <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-navy-blue uppercase tracking-wider">
+                                <th class="px-4 sm:px-6 py-3 sm:py-4 text-left text-xs font-semibold text-primary uppercase tracking-wider">
                                     Aksi
                                 </th>
                             </tr>
                         </thead>
                         <tbody class="divide-y divide-soft-gray">
                             @forelse($dokumen as $dok)
-                            <tr class="hover:bg-off-white/50 transition-colors duration-150">
+                            <tr class="hover:bg-bg-app/50 transition-colors duration-150">
                                 <!-- Document Info -->
                                 <td class="px-4 sm:px-6 py-3 sm:py-4">
                                     <div class="flex items-center">
-                                        <div class="flex-shrink-0 w-8 h-8 sm:w-10 sm:h-10 rounded-lg bg-navy-blue/10 flex items-center justify-center mr-2 sm:mr-3">
-                                            <svg class="w-4 h-4 sm:w-5 sm:h-5 text-navy-blue" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <div class="flex-shrink-0 w-8 h-8 sm:w-10 sm:h-10 rounded-lg bg-primary/10 flex items-center justify-center mr-2 sm:mr-3">
+                                            <svg class="w-4 h-4 sm:w-5 sm:h-5 text-primary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                             </svg>
                                         </div>
                                         <div class="flex-1 min-w-0">
                                             <a href="{{ route('dokumen.show', $dok->id) }}" 
-                                               class="text-sm font-semibold text-navy-blue hover:text-steel-blue truncate block transition-colors"
+                                               class="text-sm font-semibold text-primary hover:text-secondary truncate block transition-colors"
                                                title="{{ $dok->judul_dokumen }}">
                                                 {{ $dok->judul_dokumen }}
                                             </a>
-                                            <p class="text-xs text-steel-blue truncate mt-0.5">
+                                            <p class="text-xs text-secondary truncate mt-0.5">
                                                 {{ $dok->nomor_dokumen }}
                                             </p>
                                         </div>
@@ -292,25 +299,34 @@
 
                                 <!-- Category -->
                                 <td class="px-4 sm:px-6 py-3 sm:py-4">
-                                    <span class="inline-flex items-center px-2 sm:px-3 py-0.5 sm:py-1 rounded-full text-xs font-medium bg-navy-blue/10 text-navy-blue">
+                                    @php
+                                        $hash = md5($dok->kategori->nama_kategori);
+                                        $hue = hexdec(substr($hash, 0, 4)) % 360;
+                                    @endphp
+                                    <span class="inline-flex items-center px-2 sm:px-3 py-0.5 sm:py-1 rounded-full text-xs font-semibold border border-soft-gray shadow-sm" style="background-color: hsl({{ $hue }}, 85%, 85%); color: #000000;">
                                         {{ $dok->kategori->nama_kategori }}
                                     </span>
                                 </td>
 
                                 <!-- Unit Kerja -->
                                 <td class="px-4 sm:px-6 py-3 sm:py-4">
-                                    <div class="flex items-center text-sm text-charcoal">
-                                        <svg class="w-3 h-3 sm:w-4 sm:h-4 mr-1 sm:mr-2 text-charcoal/50" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    @php
+                                        $nama_unit = $dok->unitKerja->nama_unit ?? 'Admin';
+                                        $hashUnit = md5($nama_unit);
+                                        $hueUnit = hexdec(substr($hashUnit, 0, 4)) % 360;
+                                    @endphp
+                                    <span class="inline-flex items-center px-2 sm:px-3 py-0.5 sm:py-1 rounded-full text-xs font-semibold border border-soft-gray shadow-sm" style="background-color: hsl({{ $hueUnit }}, 85%, 85%); color: #000000;">
+                                        <svg class="w-3 h-3 sm:w-3.5 sm:h-3.5 mr-1" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 21V5a2 2 0 00-2-2H7a2 2 0 00-2 2v16m14 0h2m-2 0h-5m-9 0H3m2 0h5M9 7h1m-1 4h1m4-4h1m-1 4h1m-5 10v-5a1 1 0 011-1h2a1 1 0 011 1v5m-4 0h4"/>
                                         </svg>
-                                        {{ $dok->unitKerja->nama_unit ?? 'Admin' }}
-                                    </div>
+                                        {{ $nama_unit }}
+                                    </span>
                                 </td>
 
                                 <!-- Tahun -->
                                 <td class="px-4 sm:px-6 py-3 sm:py-4">
-                                    <div class="flex items-center text-sm font-medium text-charcoal">
-                                        <svg class="w-3 h-3 sm:w-4 sm:h-4 mr-1 sm:mr-2 text-charcoal/50" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <div class="flex items-center text-sm font-medium text-text-main">
+                                        <svg class="w-3 h-3 sm:w-4 sm:h-4 mr-1 sm:mr-2 text-text-main/50" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 7V3m8 4V3m-9 8h10M5 21h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v12a2 2 0 002 2z"/>
                                         </svg>
                                         {{ $dok->tahun_dokumen }}
@@ -363,13 +379,13 @@
                             <tr>
                                 <td colspan="5" class="px-6 py-12 text-center">
                                     <div class="flex flex-col items-center justify-center">
-                                        <div class="w-16 h-16 rounded-full bg-off-white flex items-center justify-center mb-4">
-                                            <svg class="w-8 h-8 text-charcoal/30" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <div class="w-16 h-16 rounded-full bg-bg-app flex items-center justify-center mb-4">
+                                            <svg class="w-8 h-8 text-text-main/30" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                                                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"/>
                                             </svg>
                                         </div>
-                                        <p class="text-lg font-medium text-charcoal/60 mb-1">Belum ada dokumen</p>
-                                        <p class="text-sm text-charcoal/40">Mulai dengan mengunggah dokumen pertama Anda</p>
+                                        <p class="text-lg font-medium text-text-main/60 mb-1">Belum ada dokumen</p>
+                                        <p class="text-sm text-text-main/40">Mulai dengan mengunggah dokumen pertama Anda</p>
                                     </div>
                                 </td>
                             </tr>
@@ -381,9 +397,9 @@
 
             <!-- Pagination -->
             @if($dokumen->hasPages())
-            <div class="px-4 sm:px-6 py-3 sm:py-4 border-t border-soft-gray bg-off-white">
+            <div class="px-4 sm:px-6 py-3 sm:py-4 border-t border-soft-gray bg-bg-app">
                 <div class="flex flex-col sm:flex-row items-center justify-between gap-3 sm:gap-0">
-                    <div class="text-xs sm:text-sm text-navy-blue/80 font-medium">
+                    <div class="text-xs sm:text-sm text-primary/80 font-medium">
                         Menampilkan {{ $dokumen->firstItem() ?? 0 }} - {{ $dokumen->lastItem() ?? 0 }} dari {{ $dokumen->total() }} dokumen
                     </div>
                     <div class="flex flex-wrap justify-center sm:justify-end gap-1 sm:gap-2">
@@ -399,31 +415,30 @@
 <style>
     /* Custom Colors */
     :root {
-        --navy-blue: #0A2540;
-        --steel-blue: #334E68;
-        --off-white: #F8F9FB;
+        --accent: #FFD600;
+        --primary: #0F9D58;
+        --secondary: #34A853;
+        --bg-app: #F5F7FA;
         --white: #FFFFFF;
-        --charcoal: #111827;
+        --text-main: #000000;
         --soft-gray: #E5E7EB;
     }
 
-    .bg-navy-blue { 
-        background-color: #0A2540 !important; 
-    }
-    .text-navy-blue { 
-        color: #0A2540 !important; 
-    }
-    .bg-steel-blue { background-color: var(--steel-blue); }
-    .text-steel-blue { color: var(--steel-blue); }
-    .bg-off-white { background-color: var(--off-white); }
-    .text-charcoal { color: var(--charcoal); }
+    .bg-primary { background-color: #0F9D58 !important; }
+    .text-primary { color: #0F9D58 !important; }
+    .bg-secondary { background-color: var(--secondary); }
+    .text-secondary { color: #000000; }
+    .bg-bg-app { background-color: var(--bg-app); }
+    .text-text-main { color: #000000; }
     .border-soft-gray { border-color: var(--soft-gray); }
-    
+    .bg-accent { background-color: var(--accent); }
+    .text-accent { color: var(--accent); }
+
     /* Focus ring */
-    .focus\:ring-navy-blue\/50:focus {
-        --tw-ring-color: rgba(10, 37, 64, 0.5) !important;
+    .focus\:ring-primary\/50:focus {
+        --tw-ring-color: rgba(15, 157, 88, 0.5) !important;
     }
-    
+
     /* Line clamp utility */
     .line-clamp-2 {
         overflow: hidden;
@@ -432,68 +447,12 @@
         -webkit-line-clamp: 2;
         line-clamp: 2;
     }
-    
-    /* Gradient */
-    .bg-gradient-to-r {
-        background-image: linear-gradient(to right, var(--tw-gradient-stops));
-    }
-    
+
     /* Mobile optimization */
     @media (max-width: 640px) {
         .ml-13 {
             margin-left: 3.25rem;
         }
-        
-        /* Pastikan teks tidak overflow di mobile */
-        .truncate-mobile {
-            overflow: hidden;
-            text-overflow: ellipsis;
-            white-space: nowrap;
-            max-width: 200px;
-        }
-        
-        /* Tombol aksi lebih besar untuk touch */
-        .mobile-action-btn {
-            padding: 0.75rem;
-            min-height: 44px;
-            min-width: 44px;
-        }
-        
-        /* Grid lebih rapi di mobile */
-        .mobile-grid {
-            display: grid;
-            grid-template-columns: repeat(2, 1fr);
-            gap: 0.75rem;
-        }
     }
 </style>
-
-<script>
-    // Optimasi untuk mobile
-    document.addEventListener('DOMContentLoaded', function() {
-        // Cek jika device mobile
-        function isMobile() {
-            return window.innerWidth <= 640;
-        }
-        
-        if (isMobile()) {
-            console.log('Mobile view active - optimizing layout');
-            
-            // Tambahkan class untuk mobile optimization
-            const mobileCards = document.querySelectorAll('.sm\\:hidden > div > div');
-            mobileCards.forEach(card => {
-                card.classList.add('mobile-optimized');
-            });
-        }
-        
-        // Pastikan semua link dan button touch-friendly di mobile
-        const touchElements = document.querySelectorAll('a, button, input[type="submit"], .mobile-action-btn');
-        touchElements.forEach(el => {
-            if (isMobile()) {
-                el.style.minHeight = '44px';
-                el.style.minWidth = '44px';
-            }
-        });
-    });
-</script>
 @endsection

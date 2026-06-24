@@ -3,7 +3,8 @@
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
-use Illuminate\Support\Facades\DB;
+
+
 use Illuminate\Support\Facades\Storage;
 use App\Models\Dokumen;
 use ZipArchive; // Class bawaan PHP
@@ -22,37 +23,8 @@ class BackupController extends Controller
         return view('admin.backup.index', compact('tahunTersedia'));
     }
 
-    /**
-     * Backup 1: Database (.sql) - Untuk Tim IT
-     */
-    public function backupDb()
-    {
-        // ... (KODE LAMA backup() TETAP DISINI, TIDAK BERUBAH) ...
-        // Agar hemat tempat, biarkan kode backup SQL yang tadi Anda buat tetap ada di sini
-        // Ganti saja nama function-nya jadi 'backupDb'
-        
-        // --- Code Singkat Backup SQL (Copy dari sebelumnya) ---
-        $dbName = env('DB_DATABASE');
-        $tables = DB::select('SHOW TABLES');
-        $keyName = "Tables_in_" . $dbName;
-        $content = "-- Backup Database: $dbName\nSET FOREIGN_KEY_CHECKS=0;\n\n";
-        foreach ($tables as $table) {
-            $tableName = $table->$keyName;
-            $createTable = DB::select("SHOW CREATE TABLE `$tableName`");
-            $content .= "DROP TABLE IF EXISTS `$tableName`;\n" . $createTable[0]->{'Create Table'} . ";\n\n";
-            $rows = DB::table($tableName)->get();
-            foreach ($rows as $row) {
-                $values = array_map(fn($val) => is_null($val) ? "NULL" : "'" . addslashes($val) . "'", (array) $row);
-                $content .= "INSERT INTO `$tableName` VALUES (" . implode(", ", $values) . ");\n";
-            }
-        }
-        $content .= "\nSET FOREIGN_KEY_CHECKS=1;";
-        $fileName = 'backup_database_' . date('Y-m-d') . '.sql';
-        return response($content)->withHeaders([
-            'Content-Type' => 'application/octet-stream',
-            'Content-Disposition' => 'attachment; filename="' . $fileName . '"',
-        ]);
-    }
+
+
 
     /**
      * Backup 2: Arsip Dokumen (.zip) - Untuk User Desa

@@ -7,10 +7,12 @@ use App\Http\Controllers\DokumenController;
 use App\Http\Controllers\KategoriController;
 use App\Http\Controllers\UserController;
 use App\Http\Controllers\LaporanController;
-use App\Http\Controllers\NotifikasiController; // <-- PENTING: Import Controller Notifikasi
+use App\Http\Controllers\NotifikasiController;
 use App\Http\Controllers\LogAktivitasController;
 use App\Http\Controllers\BackupController;
+use App\Http\Controllers\AutoFieldController;
 use App\Http\Middleware\IsAdmin;
+use App\Http\Middleware\IsAdminOrOperator;
 use Illuminate\Support\Facades\Auth;
 
 /*
@@ -55,6 +57,17 @@ Route::middleware('auth')->group(function () {
     Route::get('dokumen/{dokumen}/preview', [DokumenController::class, 'preview'])->name('dokumen.preview');
     Route::resource('dokumen', DokumenController::class);
 
+    // --- FITUR AUTO FIELD / CETAK SURAT (Admin + Operator) ---
+    Route::prefix('cetak-surat')
+        ->name('autofield.')
+        ->middleware(IsAdminOrOperator::class)
+        ->group(function () {
+            Route::get('/', [AutoFieldController::class, 'index'])->name('index');
+            Route::post('/cari-warga', [AutoFieldController::class, 'cariWarga'])->name('cariWarga');
+            Route::post('/generate', [AutoFieldController::class, 'generate'])->name('generate');
+            Route::get('/riwayat', [AutoFieldController::class, 'riwayat'])->name('riwayat');
+        });
+
     // --- AREA KHUSUS ADMIN ---
     Route::prefix('admin')
         ->name('admin.')
@@ -75,9 +88,6 @@ Route::middleware('auth')->group(function () {
             
             // Backup Dokumen (ZIP)
             Route::post('/backup/arsip', [BackupController::class, 'backupArsip'])->name('backup.arsip');
-            
-            // Backup Database (SQL)
-            Route::get('/backup/db', [BackupController::class, 'backupDb'])->name('backup.db');
 
             // TAMBAHAN: Route Cek List File (AJAX)
             Route::post('/backup/check', [BackupController::class, 'checkArsip'])->name('backup.check');
