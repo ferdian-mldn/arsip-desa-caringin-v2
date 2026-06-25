@@ -349,14 +349,6 @@
                                             </svg>
                                         </a>
 
-                                        <!-- TEMPORARY DEBUG INFO -->
-                                        <div class="text-[10px] text-gray-400">
-                                            Role: {{ Auth::user()->role->nama_peran }} <br>
-                                            My_Unit: {{ Auth::user()->id_unit_kerja ?? 'NULL' }} <br>
-                                            Dok_Unit: {{ $dok->id_unit_kerja ?? 'NULL' }} <br>
-                                            Pengunggah: {{ $dok->id_pengunggah }}
-                                        </div>
-
                                         <!-- Edit (Conditional) -->
                                         @php
                                             $canEditDeleteDesktop = Auth::user()->role->nama_peran === 'Admin' || Auth::id() == $dok->id_pengunggah || (Auth::user()->role->nama_peran === 'Operator' && Auth::user()->id_unit_kerja == $dok->id_unit_kerja);
