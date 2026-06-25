@@ -22,9 +22,25 @@ class TemplateSuratSeeder extends Seeder
         $sourceDir = base_path('asset/desa');
         $files = File::glob($sourceDir . '/*.docx');
 
+        // Hapus data lama agar tidak menumpuk saat di-seed ulang
+        DB::statement('SET FOREIGN_KEY_CHECKS=0;');
+        DB::table('template_surat')->truncate();
+        DB::statement('SET FOREIGN_KEY_CHECKS=1;');
+
+        $mapping = [
+            'FORM. KTP' => 'Formulir Pengantar KTP',
+            'KET DOMISILI - ktp - terbaru - Copy (2) - Copy - Copy - Copy - Copy' => 'Surat Keterangan Domisili',
+            'KET DOMISILI - ktp - terbaru - Copy (2) - Copy - Copy - Copy' => 'Surat Keterangan Domisili (Alt)',
+            'SKTM Sekolah New' => 'Surat Keterangan Tidak Mampu (Sekolah)',
+            'SKTM.RUMAH SAKIT' => 'Surat Keterangan Tidak Mampu (Rumah Sakit)',
+            'SKU New' => 'Surat Keterangan Usaha (SKU)',
+            'SURAT PINDAH KAB' => 'Surat Pengantar Pindah Kabupaten',
+            'sktm' => 'Surat Keterangan Tidak Mampu (Umum)',
+        ];
+
         foreach ($files as $file) {
             $basename = basename($file);
-            if (Str::contains($basename, 'PROFIL DESA')) {
+            if (Str::contains($basename, 'PROFIL DESA') || Str::contains($basename, '(Alt)')) {
                 continue;
             }
 
@@ -34,19 +50,24 @@ class TemplateSuratSeeder extends Seeder
             File::copy($file, storage_path('app/' . $destPath));
 
             // Determine name
-            $namaTemplate = str_replace('.docx', '', $basename);
+            $namaAsli = str_replace('.docx', '', $basename);
+            
+            // Skip the duplicate domisili
+            if ($namaAsli === 'KET DOMISILI - ktp - terbaru - Copy (2) - Copy - Copy - Copy') {
+                continue;
+            }
+
+            $namaTemplate = $mapping[$namaAsli] ?? $namaAsli;
             $kodeTemplate = Str::slug($namaTemplate);
 
             // Create record
-            TemplateSurat::updateOrCreate(
-                ['kode_template' => $kodeTemplate],
-                [
-                    'nama_template' => $namaTemplate,
-                    'deskripsi' => 'Template dokumen ' . $namaTemplate,
-                    'lokasi_file' => $destPath,
-                    'status_aktif' => true,
-                ]
-            );
+            TemplateSurat::create([
+                'kode_template' => $kodeTemplate,
+                'nama_template' => $namaTemplate,
+                'deskripsi' => 'Template dokumen ' . $namaTemplate,
+                'lokasi_file' => $destPath,
+                'status_aktif' => true,
+            ]);
         }
         
         $this->command->info('Template surat berhasil di-seed.');
