@@ -202,7 +202,10 @@
                                 </a>
 
                                 <!-- Edit (Conditional) -->
-                                @if(Auth::user()->role->nama_peran === 'Admin' || Auth::id() === $dok->id_pengunggah)
+                                @php
+                                    $canEditDelete = Auth::user()->role->nama_peran === 'Admin' || Auth::id() == $dok->id_pengunggah || (Auth::user()->role->nama_peran === 'Operator' && Auth::user()->id_unit_kerja == $dok->id_unit_kerja);
+                                @endphp
+                                @if($canEditDelete)
                                 <a href="{{ route('dokumen.edit', $dok->id) }}" 
                                    class="p-2 rounded-lg bg-yellow-50 text-yellow-600 hover:bg-yellow-100 hover:text-yellow-700 transition-colors duration-200"
                                    title="Edit">
@@ -213,7 +216,7 @@
                                 @endif
 
                                 <!-- Delete (Conditional) -->
-                                @if(Auth::user()->role->nama_peran === 'Admin' || Auth::id() === $dok->id_pengunggah)
+                                @if($canEditDelete)
                                 <form action="{{ route('dokumen.destroy', $dok->id) }}" method="POST" 
                                       onsubmit="return confirm('Apakah Anda yakin ingin menghapus dokumen ini? Tindakan ini tidak dapat dibatalkan.');">
                                     @csrf
@@ -346,8 +349,19 @@
                                             </svg>
                                         </a>
 
+                                        <!-- TEMPORARY DEBUG INFO -->
+                                        <div class="text-[10px] text-gray-400">
+                                            Role: {{ Auth::user()->role->nama_peran }} <br>
+                                            My_Unit: {{ Auth::user()->id_unit_kerja ?? 'NULL' }} <br>
+                                            Dok_Unit: {{ $dok->id_unit_kerja ?? 'NULL' }} <br>
+                                            Pengunggah: {{ $dok->id_pengunggah }}
+                                        </div>
+
                                         <!-- Edit (Conditional) -->
-                                        @if(Auth::user()->role->nama_peran === 'Admin' || Auth::id() === $dok->id_pengunggah)
+                                        @php
+                                            $canEditDeleteDesktop = Auth::user()->role->nama_peran === 'Admin' || Auth::id() == $dok->id_pengunggah || (Auth::user()->role->nama_peran === 'Operator' && Auth::user()->id_unit_kerja == $dok->id_unit_kerja);
+                                        @endphp
+                                        @if($canEditDeleteDesktop)
                                         <a href="{{ route('dokumen.edit', $dok->id) }}" 
                                            class="p-1.5 sm:p-2 rounded-lg bg-yellow-50 text-yellow-600 hover:bg-yellow-100 hover:text-yellow-700 transition-colors duration-200"
                                            title="Edit">
@@ -358,7 +372,7 @@
                                         @endif
 
                                         <!-- Delete (Conditional) -->
-                                        @if(Auth::user()->role->nama_peran === 'Admin' || Auth::id() === $dok->id_pengunggah)
+                                        @if($canEditDeleteDesktop)
                                         <form action="{{ route('dokumen.destroy', $dok->id) }}" method="POST" 
                                               onsubmit="return confirm('Apakah Anda yakin ingin menghapus dokumen ini? Tindakan ini tidak dapat dibatalkan.');">
                                             @csrf

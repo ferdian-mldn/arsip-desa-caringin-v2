@@ -125,7 +125,12 @@ class DokumenController extends Controller
     public function edit($id)
     {
         $dokumen = Dokumen::findOrFail($id);
-        if (Auth::user()->role->nama_peran !== 'Admin' && $dokumen->id_pengunggah !== Auth::id()) {
+        
+        $canEditDelete = Auth::user()->role->nama_peran === 'Admin' 
+                      || Auth::id() == $dokumen->id_pengunggah 
+                      || (Auth::user()->role->nama_peran === 'Operator' && Auth::user()->id_unit_kerja == $dokumen->id_unit_kerja);
+
+        if (!$canEditDelete) {
             return abort(403, 'Anda tidak memiliki izin mengedit dokumen ini.');
         }
         $kategori = Kategori::all();
@@ -137,7 +142,11 @@ class DokumenController extends Controller
     {
         $dokumen = Dokumen::findOrFail($id);
 
-        if (Auth::user()->role->nama_peran !== 'Admin' && $dokumen->id_pengunggah !== Auth::id()) {
+        $canEditDelete = Auth::user()->role->nama_peran === 'Admin' 
+                      || Auth::id() == $dokumen->id_pengunggah 
+                      || (Auth::user()->role->nama_peran === 'Operator' && Auth::user()->id_unit_kerja == $dokumen->id_unit_kerja);
+
+        if (!$canEditDelete) {
             return abort(403);
         }
 
@@ -273,7 +282,12 @@ class DokumenController extends Controller
     public function destroy($id)
     {
         $dokumen = Dokumen::findOrFail($id);
-        if (Auth::user()->role->nama_peran !== 'Admin' && $dokumen->id_pengunggah !== Auth::id()) {
+        
+        $canEditDelete = Auth::user()->role->nama_peran === 'Admin' 
+                      || Auth::id() == $dokumen->id_pengunggah 
+                      || (Auth::user()->role->nama_peran === 'Operator' && Auth::user()->id_unit_kerja == $dokumen->id_unit_kerja);
+
+        if (!$canEditDelete) {
             return abort(403, 'Anda tidak berhak menghapus dokumen ini.');
         }
         if (Storage::exists($dokumen->lokasi_file)) {

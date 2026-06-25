@@ -22,6 +22,10 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot(): void
     {
+        if (config('app.env') === 'production') {
+            \Illuminate\Support\Facades\URL::forceScheme('https');
+        }
+
         // View Composer: Mengirim data notifikasi ke 'partials.navbar' setiap kali view itu dimuat
         View::composer('partials.navbar', function ($view) {
             $notifikasiBelumDibaca = [];

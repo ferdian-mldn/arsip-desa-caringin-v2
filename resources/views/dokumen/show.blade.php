@@ -102,7 +102,10 @@
                             Download Arsip
                         </a>
 
-                        @if(Auth::user()->role->nama_peran === 'Admin' || Auth::id() === $dokumen->id_pengunggah)
+                        @php
+                            $canEditDelete = Auth::user()->role->nama_peran === 'Admin' || Auth::id() == $dokumen->id_pengunggah || (Auth::user()->role->nama_peran === 'Operator' && Auth::user()->id_unit_kerja == $dokumen->id_unit_kerja);
+                        @endphp
+                        @if($canEditDelete)
                         <a href="{{ route('dokumen.edit', $dokumen->id) }}" 
                            class="inline-flex items-center px-6 py-3 border border-soft-gray text-text-main font-semibold rounded-xl hover:bg-bg-app hover:border-primary/30 transition-all duration-200 focus:outline-none focus:ring-2 focus:ring-soft-gray">
                             <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -112,7 +115,7 @@
                         </a>
                         @endif
 
-                        @if(Auth::user()->role->nama_peran === 'Admin' || Auth::id() === $dokumen->id_pengunggah)
+                        @if($canEditDelete)
                         <form action="{{ route('dokumen.destroy', $dokumen->id) }}" method="POST" 
                               onsubmit="return confirm('Apakah Anda yakin ingin menghapus dokumen ini? Tindakan ini tidak dapat dibatalkan.');">
                             @csrf
