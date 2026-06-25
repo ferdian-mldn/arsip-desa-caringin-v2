@@ -34,7 +34,7 @@
         <table style="width: auto; margin: 0 auto; margin-top:10px;">
             <tr>
                 <td width="100">Periode</td>
-                <td>: {{ \Carbon\Carbon::parse($tgl_awal)->format('d M Y') }} s/d {{ \Carbon\Carbon::parse($tgl_akhir)->format('d M Y') }}</td>
+                <td>: {{ \Carbon\Carbon::parse($tgl_awal)->translatedFormat('d F Y') }} s/d {{ \Carbon\Carbon::parse($tgl_akhir)->translatedFormat('d F Y') }}</td>
             </tr>
             <tr>
                 <td>Kategori</td>
@@ -79,7 +79,7 @@
     </table>
 
     <div class="footer">
-        <p>Dicetak pada: {{ date('d F Y, H:i') }}</p>
+        <p>Dicetak pada: {{ \Carbon\Carbon::now()->translatedFormat('d F Y, H:i') }}</p>
         <p>Oleh: {{ Auth::user()->nama_lengkap }}</p>
     </div>
 
