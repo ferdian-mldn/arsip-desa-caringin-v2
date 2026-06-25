@@ -97,7 +97,7 @@ class AutoFieldController extends Controller
         $template = TemplateSurat::findOrFail($request->id_template);
 
         // Cek file template ada
-        $templatePath = storage_path('app/' . $template->lokasi_file);
+        $templatePath = base_path($template->lokasi_file);
         if (!file_exists($templatePath)) {
             return back()->withErrors(['File template tidak ditemukan di server.']);
         }

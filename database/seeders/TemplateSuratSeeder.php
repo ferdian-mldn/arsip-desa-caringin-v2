@@ -44,10 +44,8 @@ class TemplateSuratSeeder extends Seeder
                 continue;
             }
 
-            // Copy to storage
-            $newFilename = str_replace(' ', '_', strtolower($basename));
-            $destPath = 'templates/' . $newFilename;
-            File::copy($file, storage_path('app/' . $destPath));
+            // Path asli di repo Git
+            $destPath = 'asset/desa/' . $basename;
 
             // Determine name
             $namaAsli = str_replace('.docx', '', $basename);
