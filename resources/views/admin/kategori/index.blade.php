@@ -357,9 +357,19 @@
                     message = 'Apakah Anda yakin ingin menghapus kategori "' + kategoriName + '"?';
                 }
                 
-                if (confirm(message)) {
-                    this.submit();
-                }
+                SwalTheme.fire({
+                    title: 'Konfirmasi',
+                    text: message,
+                    icon: 'warning',
+                    showCancelButton: true,
+                    confirmButtonText: 'Ya, Lanjutkan',
+                    cancelButtonText: 'Batal',
+                    reverseButtons: true
+                }).then((result) => {
+                    if (result.isConfirmed) {
+                        form.submit();
+                    }
+                });
             });
         });
         

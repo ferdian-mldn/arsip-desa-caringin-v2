@@ -301,7 +301,70 @@
         </div>
     </div>
 
-    @stack('scripts')
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script>
+        // Konfigurasi Tema Modal Pemerintah
+        const SwalTheme = Swal.mixin({
+            customClass: {
+                popup: 'rounded-2xl border-0 shadow-2xl',
+                title: 'text-xl font-bold text-gray-800',
+                htmlContainer: 'text-gray-600',
+                confirmButton: 'btn-primary px-6 py-2.5 mx-2',
+                cancelButton: 'btn-yellow px-6 py-2.5 mx-2'
+            },
+            buttonsStyling: false
+        });
 
+        document.addEventListener('DOMContentLoaded', function () {
+            // 1. Tangkap semua form yang pakai onsubmit="return confirm(...)"
+            const deleteForms = document.querySelectorAll('form[onsubmit*="return confirm"]');
+            deleteForms.forEach(form => {
+                const originalOnsubmit = form.getAttribute('onsubmit');
+                const match = originalOnsubmit.match(/confirm\(['"](.*?)['"]\)/);
+                const message = match ? match[1] : 'Apakah Anda yakin ingin melanjutkan?';
+                
+                form.removeAttribute('onsubmit');
+                
+                form.addEventListener('submit', function (e) {
+                    e.preventDefault();
+                    SwalTheme.fire({
+                        title: 'Konfirmasi',
+                        text: message,
+                        icon: 'warning',
+                        showCancelButton: true,
+                        confirmButtonText: 'Ya, Lanjutkan',
+                        cancelButtonText: 'Batal',
+                        reverseButtons: true
+                    }).then((result) => {
+                        if (result.isConfirmed) {
+                            form.submit();
+                        }
+                    });
+                });
+            });
+
+            // 2. Tangkap tombol Logout
+            const logoutForm = document.getElementById('logout-form');
+            if (logoutForm) {
+                logoutForm.addEventListener('submit', function (e) {
+                    e.preventDefault();
+                    SwalTheme.fire({
+                        title: 'Konfirmasi Keluar',
+                        text: 'Apakah Anda yakin ingin keluar dari sistem?',
+                        icon: 'question',
+                        showCancelButton: true,
+                        confirmButtonText: 'Ya, Keluar',
+                        cancelButtonText: 'Batal',
+                        reverseButtons: true
+                    }).then((result) => {
+                        if (result.isConfirmed) {
+                            logoutForm.submit();
+                        }
+                    });
+                });
+            }
+        });
+    </script>
+    @stack('scripts')
 </body>
 </html>
