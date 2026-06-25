@@ -45,8 +45,6 @@ RUN mkdir -p storage/framework/{sessions,views,cache,testing} storage/logs boots
 RUN echo '#!/bin/sh\n\
 php artisan config:clear\n\
 php artisan migrate --force\n\
-mkdir -p /app/storage/app/public/documents\n\
-chmod -R 777 /app/storage/app/public\n\
 php artisan storage:link || true\n\
 exec php artisan serve --host=0.0.0.0 --port=${PORT:-8080}' > /start.sh \
     && chmod +x /start.sh
