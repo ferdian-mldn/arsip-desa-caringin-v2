@@ -21,7 +21,7 @@ class KategoriController extends Controller
             'masa_retensi'  => 'required|integer|min:1|max:50', // Tahun
         ]);
 
-        Kategori::create($request->all());
+        Kategori::create($request->only(['nama_kategori', 'masa_retensi']));
 
         return back()->with('success', 'Kategori berhasil ditambahkan.');
     }
@@ -35,7 +35,7 @@ class KategoriController extends Controller
             'masa_retensi'  => 'required|integer|min:1',
         ]);
 
-        $kategori->update($request->all());
+        $kategori->update($request->only(['nama_kategori', 'masa_retensi']));
 
         return back()->with('success', 'Kategori berhasil diperbarui.');
     }

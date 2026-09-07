@@ -34,7 +34,7 @@ class BackupController extends Controller
      */
     public function backupArsip(Request $request)
     {
-        $request->validate(['tahun' => 'required|integer']);
+        $request->validate(['tahun' => 'required|integer|min:2000|max:2099']);
         $tahun = $request->tahun;
 
         // 1. Tentukan Path Folder menggunakan Facade Storage (Lebih Aman di Windows)
@@ -85,7 +85,7 @@ class BackupController extends Controller
      */
     public function checkArsip(Request $request)
     {
-        $request->validate(['tahun' => 'required|integer']);
+        $request->validate(['tahun' => 'required|integer|min:2000|max:2099']);
         $tahun = $request->tahun;
 
         // Gunakan logika Path yang sama dengan backupArsip

@@ -10,9 +10,8 @@ use App\Http\Controllers\LaporanController;
 use App\Http\Controllers\NotifikasiController;
 use App\Http\Controllers\LogAktivitasController;
 use App\Http\Controllers\BackupController;
-use App\Http\Controllers\AutoFieldController;
+
 use App\Http\Middleware\IsAdmin;
-use App\Http\Middleware\IsAdminOrOperator;
 use Illuminate\Support\Facades\Auth;
 
 /*
@@ -29,7 +28,8 @@ Route::get('/', function () {
 // GUEST (Belum Login)
 Route::middleware('guest')->group(function () {
     Route::get('/login', [AuthController::class, 'showLoginForm'])->name('login');
-    Route::post('/login', [AuthController::class, 'login'])->name('login.process');
+    // Throttle: maks 5 percobaan login per menit per IP (cegah brute force)
+    Route::post('/login', [AuthController::class, 'login'])->middleware('throttle:5,1')->name('login.process');
 });
 
 // AUTH (Sudah Login)
@@ -56,17 +56,6 @@ Route::middleware('auth')->group(function () {
     Route::get('dokumen/{dokumen}/download', [DokumenController::class, 'download'])->name('dokumen.download');
     Route::get('dokumen/{dokumen}/preview', [DokumenController::class, 'preview'])->name('dokumen.preview');
     Route::resource('dokumen', DokumenController::class);
-
-    // --- FITUR AUTO FIELD / CETAK SURAT (Admin + Operator) ---
-    Route::prefix('cetak-surat')
-        ->name('autofield.')
-        ->middleware(IsAdminOrOperator::class)
-        ->group(function () {
-            Route::get('/', [AutoFieldController::class, 'index'])->name('index');
-            Route::post('/cari-warga', [AutoFieldController::class, 'cariWarga'])->name('cariWarga');
-            Route::post('/generate', [AutoFieldController::class, 'generate'])->name('generate');
-            Route::get('/riwayat', [AutoFieldController::class, 'riwayat'])->name('riwayat');
-        });
 
     // --- AREA KHUSUS ADMIN ---
     Route::prefix('admin')

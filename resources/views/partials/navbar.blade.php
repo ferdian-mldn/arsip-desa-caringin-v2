@@ -182,39 +182,14 @@
 </header>
 
 <script>
-    // FIXED: Fungsi sekarang menerima 'event' sebagai parameter pertama
+    // Klik notifikasi → navigasi ke route notifikasi/baca/{id}
+    // Controller akan handle: mark dibaca + cek dokumen masih ada
+    // Jika dokumen dihapus → tampil halaman informasi
+    // Jika dokumen masih ada → redirect ke halaman dokumen
     function markNotificationAsRead(event, notificationId, redirectUrl) {
-        // Cegah link membuka halaman secara default sebelum JS selesai
         if (event) event.preventDefault();
-
-        fetch(`/notifikasi/baca/${notificationId}`, {
-            method: 'GET',
-            headers: {
-                'Content-Type': 'application/json',
-                'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').getAttribute('content')
-            }
-        })
-        .then(response => {
-            if (response.ok || response.redirected) {
-                // Redirect manual via JS setelah status dibaca terupdate
-                if (redirectUrl && redirectUrl !== '#' && redirectUrl !== '') {
-                    window.location.href = redirectUrl;
-                } else {
-                    location.reload();
-                }
-            } else {
-                throw new Error('Network response was not ok.');
-            }
-        })
-        .catch(error => {
-            console.error('Error:', error);
-            // Tetap redirect meski ada error (fallback)
-            if (redirectUrl && redirectUrl !== '#' && redirectUrl !== '') {
-                window.location.href = redirectUrl;
-            } else {
-                location.reload();
-            }
-        });
+        // Navigasi langsung ke controller — biarkan server yang handle redirect
+        window.location.href = `/notifikasi/baca/${notificationId}`;
     }
 
     function markAllAsRead() {

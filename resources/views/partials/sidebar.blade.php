@@ -68,21 +68,7 @@
                     @endif
                 </a>
 
-                @if(in_array(Auth::user()->role->nama_peran, ['Admin', 'Operator']))
-                <a class="flex items-center px-3 py-3 rounded-lg transition-all duration-200 {{ request()->routeIs('autofield.*') ? 'bg-white/10 text-white border-l-4 border-soft-gold' : 'text-secondary-light hover:bg-white/5 hover:text-white' }}" 
-                   href="{{ route('autofield.index') }}">
-                    <div class="w-8 h-8 flex items-center justify-center rounded-lg {{ request()->routeIs('autofield.*') ? 'bg-soft-gold/20' : 'bg-white/5' }}">
-                        <svg class="w-5 h-5 {{ request()->routeIs('autofield.*') ? 'text-soft-gold' : 'text-secondary-light' }}" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" 
-                                  d="M17 17h2a2 2 0 002-2v-4a2 2 0 00-2-2H5a2 2 0 00-2 2v4a2 2 0 002 2h2m2 4h6a2 2 0 002-2v-4a2 2 0 00-2-2H9a2 2 0 00-2 2v4a2 2 0 002 2zm8-12V5a2 2 0 00-2-2H9a2 2 0 00-2 2v4h10z"/>
-                        </svg>
-                    </div>
-                    <span class="ml-3 font-medium text-sm">Cetak Surat</span>
-                    @if(request()->routeIs('autofield.*'))
-                        <div class="ml-auto w-2 h-2 bg-soft-gold rounded-full"></div>
-                    @endif
-                </a>
-                @endif
+
             </div>
         </div>
 
@@ -160,7 +146,13 @@
         <div class="p-4">
             <form id="logout-form" method="POST" action="{{ route('logout') }}">
                 @csrf
-                <button type="submit" 
+                <button type="button"
+                        onclick="sipModal.deleteForm(document.getElementById('logout-form'), {
+                            title: 'Konfirmasi Keluar',
+                            message: 'Apakah Anda yakin ingin keluar dari sistem?<br><br>Sesi Anda akan diakhiri dan Anda perlu login kembali untuk mengakses sistem.',
+                            confirmText: 'Ya, Keluar',
+                            confirmIcon: 'M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1'
+                        })"
                         class="flex items-center w-full px-3 py-3 rounded-lg text-secondary-light hover:bg-red-500/10 hover:text-red-200 transition-all duration-200 group">
                     <div class="w-8 h-8 flex items-center justify-center rounded-lg bg-white/5 group-hover:bg-red-500/20 transition-colors duration-200">
                         <svg class="w-5 h-5 group-hover:text-red-300 transition-colors duration-200" 
