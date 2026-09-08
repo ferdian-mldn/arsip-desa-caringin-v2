@@ -21,6 +21,7 @@ class DatabaseSeeder extends Seeder
             UserSeeder::class,
             TemplateSuratSeeder::class,
             DataWargaSeeder::class,
+            DokumenSeeder::class,
         ]);
     }
 }

@@ -172,8 +172,9 @@ class DokumenController extends Controller
         }
 
         if ($request->hasFile('file_dokumen')) {
-            if (Storage::exists($dokumen->lokasi_file)) {
-                Storage::delete($dokumen->lokasi_file);
+            $oldDiskPath = preg_replace('#^public/#', '', $dokumen->lokasi_file);
+            if (Storage::disk('public')->exists($oldDiskPath)) {
+                Storage::disk('public')->delete($oldDiskPath);
             }
             $file = $request->file('file_dokumen');
             $extension = $file->getClientOriginalExtension();
@@ -209,7 +210,8 @@ class DokumenController extends Controller
             'ip_address' => request()->ip(),
             'user_agent' => request()->userAgent()
         ]);
-        return Storage::download($dokumen->lokasi_file, $dokumen->judul_dokumen . '.' . $dokumen->tipe_file);
+        $diskPath = preg_replace('#^public/#', '', $dokumen->lokasi_file);
+        return Storage::disk('public')->download($diskPath, $dokumen->judul_dokumen . '.' . $dokumen->tipe_file);
     }
 
     /**
@@ -220,11 +222,12 @@ class DokumenController extends Controller
         $dokumen = Dokumen::findOrFail($id);
         
         // 1. Cek Fisik File
-        if (!Storage::exists($dokumen->lokasi_file)) {
+        $diskPath = preg_replace('#^public/#', '', $dokumen->lokasi_file);
+        if (!Storage::disk('public')->exists($diskPath)) {
             return response()->make('<div style="text-align:center; padding:20px;">File fisik tidak ditemukan di server.</div>', 404);
         }
 
-        $path = Storage::path($dokumen->lokasi_file);
+        $path = Storage::disk('public')->path($diskPath);
         $extension = strtolower($dokumen->tipe_file);
 
         // 2. Jika File Word/Excel (Office) -> Tampilkan Pesan Download
@@ -233,7 +236,7 @@ class DokumenController extends Controller
             $html = '
                 <div style="font-family:sans-serif; text-align:center; padding:50px; color:#555;">
                     <svg style="width:50px; height:50px; margin-bottom:15px; color:#888;" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path></svg>
-                    <p style="font-size:18px; margin-bottom:10px;">Pratinjau tidak tersedia untuk format <b>.'.$extension.'</b></p>
+                    <p style="font-size:18px; margin-bottom:10px;">Pratinjau tidak tersedia untuk format <b>'.$extension.'</b></p>
                     <p>Browser tidak mendukung pembacaan file Office secara langsung.</p>
                     <br>
                     <a href="'.$downloadLink.'" style="background:#2563EB; color:white; padding:10px 20px; text-decoration:none; border-radius:5px; font-weight:bold;">Download File</a>
@@ -245,7 +248,7 @@ class DokumenController extends Controller
         // 3. Persiapan Base64 (Hanya untuk PDF dan Gambar)
         $fileContent = file_get_contents($path);
         $base64 = base64_encode($fileContent);
-        $mime = Storage::mimeType($dokumen->lokasi_file);
+        $mime = Storage::disk('public')->mimeType($diskPath);
 
         // 4. Logika Tampilan Berdasarkan Tipe File
         if ($extension === 'pdf') {
@@ -290,8 +293,9 @@ class DokumenController extends Controller
         if (!$canEditDelete) {
             return abort(403, 'Anda tidak berhak menghapus dokumen ini.');
         }
-        if (Storage::exists($dokumen->lokasi_file)) {
-            Storage::delete($dokumen->lokasi_file);
+        $oldDiskPath = preg_replace('#^public/#', '', $dokumen->lokasi_file);
+        if (Storage::disk('public')->exists($oldDiskPath)) {
+            Storage::disk('public')->delete($oldDiskPath);
         }
         $judul = $dokumen->judul_dokumen;
         $dokumen->delete();

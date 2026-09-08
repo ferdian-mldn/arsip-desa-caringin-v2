@@ -1,0 +1,92 @@
+services:
+
+  # ──────────────────────────────────────────
+  # Aplikasi Laravel
+  # ──────────────────────────────────────────
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: arsip_desa_app
+    restart: unless-stopped
+    ports:
+      - "8080:80"
+    environment:
+      APP_NAME: "Arsip Desa Caringin"
+      APP_ENV: production
+      APP_KEY: base64:5LxGruKgpcnIj6HlGeD7HLMt+xXXfap0EKN5uEISvlI=
+      APP_DEBUG: "false"
+      APP_URL: http://localhost:8080
+      DB_CONNECTION: mysql
+      DB_HOST: db
+      DB_PORT: 3306
+      DB_DATABASE: db_arsip_desa
+      DB_USERNAME: arsip_user
+      DB_PASSWORD: arsip_password123
+      SESSION_DRIVER: file
+      CACHE_STORE: file
+      FILESYSTEM_DISK: local
+      LOG_CHANNEL: stack
+      LOG_LEVEL: error
+    volumes:
+      - app_storage:/var/www/html/storage/app
+      - app_logs:/var/www/html/storage/logs
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - arsip_network
+
+  # ──────────────────────────────────────────
+  # Database MySQL
+  # ──────────────────────────────────────────
+  db:
+    image: mysql:8.0
+    container_name: arsip_desa_db
+    restart: unless-stopped
+    environment:
+      MYSQL_DATABASE: db_arsip_desa
+      MYSQL_USER: arsip_user
+      MYSQL_PASSWORD: arsip_password123
+      MYSQL_ROOT_PASSWORD: root_password123
+    ports:
+      - "3307:3306"
+    volumes:
+      - db_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-u", "root", "-proot_password123"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+      start_period: 30s
+    networks:
+      - arsip_network
+
+  # ──────────────────────────────────────────
+  # phpMyAdmin (opsional, untuk kelola DB)
+  # ──────────────────────────────────────────
+  phpmyadmin:
+    image: phpmyadmin:latest
+    container_name: arsip_desa_pma
+    restart: unless-stopped
+    ports:
+      - "8081:80"
+    environment:
+      PMA_HOST: db
+      PMA_PORT: 3306
+      PMA_USER: root
+      PMA_PASSWORD: root_password123
+    depends_on:
+      db:
+        condition: service_healthy
+    networks:
+      - arsip_network
+
+volumes:
+  db_data:
+  app_storage:
+  app_logs:
+
+networks:
+  arsip_network:
+    driver: bridge

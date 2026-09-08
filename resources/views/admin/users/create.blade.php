@@ -123,7 +123,7 @@
                                     <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
                                 </div>
                             </div>
-                            <p class="text-xs text-secondary/60 mt-1">Kosongkan jika role adalah Admin</p>
+                            <p class="text-xs text-secondary/60 mt-1">Pilih unit kerja yang sesuai dengan peran pengguna</p>
                         </div>
 
                         <div class="flex flex-col sm:flex-row gap-3 pt-6 border-t border-soft-gray">
@@ -191,8 +191,12 @@ document.addEventListener('DOMContentLoaded', function() {
         defaultOption.text = '-- Pilih Unit Kerja --';
         unitKerjaSelect.appendChild(defaultOption);
 
+        // Admin: Sekretaris Desa
+        // Operator: Kaur, Kasi
+        // Viewer: Kepala Desa, Kepala Dusun
+        const adminKeywords = ['sekretaris desa'];
         const operatorKeywords = ['kaur', 'kasi'];
-        const viewerKeywords = ['kepala desa', 'kadus'];
+        const viewerKeywords = ['kepala desa', 'kepala dusun'];
 
         originalOptions.forEach(opt => {
             if (opt.value === "") return;
@@ -205,7 +209,7 @@ document.addEventListener('DOMContentLoaded', function() {
             } else if (selectedRoleText.includes('viewer')) {
                 if (viewerKeywords.some(kw => unitName.includes(kw))) show = true;
             } else if (selectedRoleText.includes('admin')) {
-                if (unitName.includes('sekretaris desa')) show = true;
+                if (adminKeywords.some(kw => unitName.includes(kw))) show = true;
             }
             
             if (show) {

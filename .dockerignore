@@ -1,8 +1,18 @@
-*.log
-.DS_Store
 .env
 .env.backup
 .env.production
+*.log
+/node_modules
+/vendor
+/public/build
+/public/hot
+/public/storage
+/storage/*.key
+/storage/pail
+Homestead.json
+Homestead.yaml
+Thumbs.db
+.DS_Store
 .phpactor.json
 .phpunit.result.cache
 /.fleet
@@ -12,22 +22,7 @@
 /.vscode
 /.zed
 /auth.json
-/node_modules
-/public/build
-/public/hot
-/public/storage
-/storage/*.key
-/storage/pail
-/vendor
-Homestead.json
-Homestead.yaml
-Thumbs.db
-
-# Microsoft Office temporary/lock files
-~$*
-*.tmp
-
-# Scratch and analysis files
+# File analisis sementara
 all_templates_text*.txt
 extracted_profil*.txt
 profil_lines.txt

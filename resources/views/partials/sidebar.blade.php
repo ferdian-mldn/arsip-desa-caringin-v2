@@ -146,13 +146,7 @@
         <div class="p-4">
             <form id="logout-form" method="POST" action="{{ route('logout') }}">
                 @csrf
-                <button type="button"
-                        onclick="sipModal.deleteForm(document.getElementById('logout-form'), {
-                            title: 'Konfirmasi Keluar',
-                            message: 'Apakah Anda yakin ingin keluar dari sistem?<br><br>Sesi Anda akan diakhiri dan Anda perlu login kembali untuk mengakses sistem.',
-                            confirmText: 'Ya, Keluar',
-                            confirmIcon: 'M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1'
-                        })"
+                <button type="submit"
                         class="flex items-center w-full px-3 py-3 rounded-lg text-secondary-light hover:bg-red-500/10 hover:text-red-200 transition-all duration-200 group">
                     <div class="w-8 h-8 flex items-center justify-center rounded-lg bg-white/5 group-hover:bg-red-500/20 transition-colors duration-200">
                         <svg class="w-5 h-5 group-hover:text-red-300 transition-colors duration-200" 
