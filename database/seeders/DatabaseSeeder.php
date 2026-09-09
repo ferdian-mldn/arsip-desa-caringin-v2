@@ -19,8 +19,6 @@ class DatabaseSeeder extends Seeder
             UnitKerjaSeeder::class,
             KategoriSeeder::class,
             UserSeeder::class,
-            TemplateSuratSeeder::class,
-            DataWargaSeeder::class,
             DokumenSeeder::class,
         ]);
     }
